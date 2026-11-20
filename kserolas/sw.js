@@ -14,7 +14,7 @@
  */
 'use strict';
 
-var CACHE_VERSION = 'v1';
+var CACHE_VERSION = 'v2';
 var SHELL_CACHE = 'xerolas-shell-' + CACHE_VERSION;
 var ASSET_CACHE = 'xerolas-assets-' + CACHE_VERSION;
 var RUNTIME_CACHE = 'xerolas-runtime-' + CACHE_VERSION;
@@ -30,7 +30,8 @@ var PRECACHE = [
     '/shell.js',
     '/manifest.webmanifest',
     '/icons/favicon.svg',
-    '/icons/icon-192.png'
+    '/icons/icon-192.png',
+    '/icons/apple-touch-icon.png'
 ];
 
 self.addEventListener('install', function (event) {
