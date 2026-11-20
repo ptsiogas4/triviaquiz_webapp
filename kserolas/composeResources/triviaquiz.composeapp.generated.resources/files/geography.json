@@ -10,7 +10,9 @@
         "Το Ηράκλειο"
       ],
       "correct_answer": "Η Αθήνα",
-      "id": 1
+      "id": 1,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί της Ελλάδας;",
@@ -21,7 +23,9 @@
         "Η Λέσβος"
       ],
       "correct_answer": "Η Κρήτη",
-      "id": 2
+      "id": 2,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το ψηλότερο βουνό της Ελλάδας;",
@@ -32,7 +36,9 @@
         "Ο Σμόλικας"
       ],
       "correct_answer": "Ο Όλυμπος",
-      "id": 3
+      "id": 3,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος ποταμός που διασχίζει την Ελλάδα;",
@@ -43,7 +49,9 @@
         "Ο Πηνειός"
       ],
       "correct_answer": "Ο Αλιάκμονας",
-      "id": 4
+      "id": 4,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το βαθύτερο φαράγγι της Ελλάδας;",
@@ -54,7 +62,9 @@
         "Το Φαράγγι του Νέστου"
       ],
       "correct_answer": "Το Φαράγγι του Βίκου",
-      "id": 5
+      "id": 5,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια θάλασσα βρίσκεται η Σαντορίνη;",
@@ -65,7 +75,9 @@
         "Στο Κρητικό Πέλαγος"
       ],
       "correct_answer": "Στο Αιγαίο Πέλαγος",
-      "id": 6
+      "id": 6,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική λίμνη έχει τη μεγαλύτερη έκταση;",
@@ -76,7 +88,9 @@
         "Η Πλαστήρα"
       ],
       "correct_answer": "Η Τριχωνίδα",
-      "id": 7
+      "id": 7,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το δυτικότερο νησί της Ελλάδας;",
@@ -87,7 +101,9 @@
         "Οι Παξοί"
       ],
       "correct_answer": "Οι Οθωνοί",
-      "id": 8
+      "id": 8,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια πόλη είναι γνωστή ως \"Νύμφη του Θερμαϊκού\";",
@@ -98,7 +114,9 @@
         "Η Ηγουμενίτσα"
       ],
       "correct_answer": "Η Θεσσαλονίκη",
-      "id": 9
+      "id": 9,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί φημίζεται για τους ανεμόμυλους του;",
@@ -109,7 +127,9 @@
         "Η Πάρος"
       ],
       "correct_answer": "Η Μύκονος",
-      "id": 10
+      "id": 10,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται το φαράγγι της Σαμαριάς;",
@@ -120,7 +140,9 @@
         "Στο Λασίθι"
       ],
       "correct_answer": "Στα Χανιά",
-      "id": 11
+      "id": 11,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η δεύτερη μεγαλύτερη πόλη της Ελλάδας;",
@@ -131,7 +153,9 @@
         "Η Λάρισα"
       ],
       "correct_answer": "Η Θεσσαλονίκη",
-      "id": 12
+      "id": 12,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος φυσικός κόλπος της Ελλάδας;",
@@ -142,7 +166,9 @@
         "Ο Παγασητικός Κόλπος"
       ],
       "correct_answer": "Ο Πατραϊκός Κόλπος",
-      "id": 13
+      "id": 13,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται το Ναυάγιο, μία από τις διασημότερες παραλίες της Ελλάδας;",
@@ -153,7 +179,9 @@
         "Στην Κέρκυρα"
       ],
       "correct_answer": "Στη Ζάκυνθο",
-      "id": 14
+      "id": 14,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πόλη της Πελοποννήσου;",
@@ -164,7 +192,9 @@
         "Η Τρίπολη"
       ],
       "correct_answer": "Η Πάτρα",
-      "id": 15
+      "id": 15,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό βουνό έχει τα περισσότερα καταγεγραμμένα είδη φυτών;",
@@ -175,18 +205,22 @@
         "Ο Γράμμος"
       ],
       "correct_answer": "Ο Όλυμπος",
-      "id": 16
+      "id": 16,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Ποια ελληνική πόλη είναι γνωστή ως \"η πόλη των γεφυρών\";",
+      "question": "Ποια ελληνική πόλη είναι γνωστή ως \"η πόλη των γεφυριών\";",
       "choices": [
         "Η Καβάλα",
         "Τα Γρεβενά",
-        "Η Άρτα",
+        "Τα Ιωάννινα",
         "Το Ναύπλιο"
       ],
-      "correct_answer": "Η Άρτα",
-      "id": 17
+      "correct_answer": "Τα Ιωάννινα",
+      "id": 17,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο ελληνικό νησί βρίσκεται το λιμάνι του Πειραιά;",
@@ -197,7 +231,9 @@
         "Στη Σύρο"
       ],
       "correct_answer": "Σε Κανένα",
-      "id": 18
+      "id": 18,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πόλη της Κρήτης;",
@@ -208,7 +244,9 @@
         "Το Ηράκλειο"
       ],
       "correct_answer": "Το Ηράκλειο",
-      "id": 19
+      "id": 19,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκουν τα Μετέωρα;",
@@ -219,7 +257,9 @@
         "Τρικάλων"
       ],
       "correct_answer": "Τρικάλων",
-      "id": 20
+      "id": 20,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος ποταμός είναι ο μεγαλύτερος που ρέει αποκλειστικά στην Ελλάδα;",
@@ -230,7 +270,9 @@
         "Ο Αχελώος"
       ],
       "correct_answer": "Ο Αχελώος",
-      "id": 21
+      "id": 21,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη φυσική λίμνη της Ελλάδας;",
@@ -241,7 +283,9 @@
         "Η Τριχωνίδα"
       ],
       "correct_answer": "Η Τριχωνίδα",
-      "id": 22
+      "id": 22,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει το σπήλαιο Διρού;",
@@ -252,7 +296,9 @@
         "Λακωνίας"
       ],
       "correct_answer": "Λακωνίας",
-      "id": 23
+      "id": 23,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο σε μήκος ποτάμι της Ελλάδας;",
@@ -263,7 +309,9 @@
         "Ο Αλιάκμονας"
       ],
       "correct_answer": "Ο Αλιάκμονας",
-      "id": 24
+      "id": 24,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί ανήκει η Χώρα Σφακίων;",
@@ -274,7 +322,9 @@
         "Στην Κρήτη"
       ],
       "correct_answer": "Στην Κρήτη",
-      "id": 25
+      "id": 25,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα των Κυκλάδων;",
@@ -285,7 +335,9 @@
         "Η Ερμούπολη"
       ],
       "correct_answer": "Η Ερμούπολη",
-      "id": 26
+      "id": 26,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο από τα παρακάτω νησιά ανήκει στα Δωδεκάνησα;",
@@ -296,7 +348,9 @@
         "Η Κάλυμνος"
       ],
       "correct_answer": "Η Κάλυμνος",
-      "id": 27
+      "id": 27,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του νομού Έβρου;",
@@ -307,7 +361,9 @@
         "Η Αλεξανδρούπολη"
       ],
       "correct_answer": "Η Αλεξανδρούπολη",
-      "id": 28
+      "id": 28,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος σε έκταση νομός της Ελλάδας;",
@@ -318,7 +374,9 @@
         "Η Αιτωλοακαρνανία"
       ],
       "correct_answer": "Η Αιτωλοακαρνανία",
-      "id": 29
+      "id": 29,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο νησί είναι γνωστό ως «Το νησί της Μαστίχας»;",
@@ -329,7 +387,9 @@
         "Η Χίος"
       ],
       "correct_answer": "Η Χίος",
-      "id": 30
+      "id": 30,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πού βρίσκεται το φαράγγι της Σαμαριάς;",
@@ -340,7 +400,9 @@
         "Στην Κρήτη"
       ],
       "correct_answer": "Στην Κρήτη",
-      "id": 31
+      "id": 31,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια θάλασσα χωρίζει την Ελλάδα από την Τουρκία;",
@@ -351,7 +413,9 @@
         "Το Αιγαίο Πέλαγος"
       ],
       "correct_answer": "Το Αιγαίο Πέλαγος",
-      "id": 32
+      "id": 32,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νοτιότερο νησί της Ελλάδας;",
@@ -362,7 +426,9 @@
         "Η Γαύδος"
       ],
       "correct_answer": "Η Γαύδος",
-      "id": 33
+      "id": 33,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Λάρισα;",
@@ -373,29 +439,35 @@
         "Στη Θεσσαλία"
       ],
       "correct_answer": "Στη Θεσσαλία",
-      "id": 34
+      "id": 34,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από τις παρακάτω λίμνες είναι τεχνητή;",
       "choices": [
         "Ορεστιάδα",
-        "Κερκίνη",
+        "Βιστωνίδα",
         "Τριχωνίδα",
         "Πλαστήρα"
       ],
       "correct_answer": "Πλαστήρα",
-      "id": 35
+      "id": 35,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η Κνωσός;",
       "choices": [
         "Στη Σαντορίνη",
-        "Στη Ρόδος",
+        "Στη Ρόδο",
         "Στην Κάρπαθο",
         "Στην Κρήτη"
       ],
       "correct_answer": "Στην Κρήτη",
-      "id": 36
+      "id": 36,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πεδιάδα της Ελλάδας;",
@@ -406,7 +478,9 @@
         "Η Θεσσαλική πεδιάδα"
       ],
       "correct_answer": "Η Θεσσαλική πεδιάδα",
-      "id": 37
+      "id": 37,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται το Σούνιο;",
@@ -417,7 +491,9 @@
         "Στην Αττική"
       ],
       "correct_answer": "Στην Αττική",
-      "id": 38
+      "id": 38,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο από τα παρακάτω νησιά δεν ανήκει στις Κυκλάδες;",
@@ -428,7 +504,9 @@
         "Η Κέρκυρα"
       ],
       "correct_answer": "Η Κέρκυρα",
-      "id": 39
+      "id": 39,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο φαράγγι της Ελλάδας είναι από τα βαθύτερα στον κόσμο;",
@@ -439,7 +517,9 @@
         "Ο Βίκος"
       ],
       "correct_answer": "Ο Βίκος",
-      "id": 40
+      "id": 40,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται ο ποταμός Νέστος;",
@@ -450,7 +530,9 @@
         "Στην Ανατολική Μακεδονία και Θράκη"
       ],
       "correct_answer": "Στην Ανατολική Μακεδονία και Θράκη",
-      "id": 41
+      "id": 41,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα των Δωδεκανήσων;",
@@ -461,7 +543,9 @@
         "Η Ρόδος"
       ],
       "correct_answer": "Η Ρόδος",
-      "id": 42
+      "id": 42,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος κόλπος της Ελλάδας;",
@@ -472,7 +556,9 @@
         "Ο Πατραϊκός"
       ],
       "correct_answer": "Ο Πατραϊκός",
-      "id": 43
+      "id": 43,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται το χιονοδρομικό κέντρο Παρνασσού;",
@@ -483,7 +569,9 @@
         "Στον Παρνασσό"
       ],
       "correct_answer": "Στον Παρνασσό",
-      "id": 44
+      "id": 44,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι που διασχίζει τη Θεσσαλία;",
@@ -494,7 +582,9 @@
         "Ο Πηνειός"
       ],
       "correct_answer": "Ο Πηνειός",
-      "id": 45
+      "id": 45,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Σάμου;",
@@ -505,10 +595,12 @@
         "Το Βαθύ"
       ],
       "correct_answer": "Το Βαθύ",
-      "id": 46
+      "id": 46,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Σε ποια θάλασσα βρίσκεται το νησί της Μυτιλήνης;",
+      "question": "Σε ποια θάλασσα βρίσκεται το νησί της Λέσβου;",
       "choices": [
         "Στο Ιόνιο πέλαγος",
         "Στο Κρητικό πέλαγος",
@@ -516,7 +608,9 @@
         "Στο Αιγαίο πέλαγος"
       ],
       "correct_answer": "Στο Αιγαίο πέλαγος",
-      "id": 47
+      "id": 490,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο λιμάνι της Ελλάδας;",
@@ -527,7 +621,9 @@
         "Ο Πειραιάς"
       ],
       "correct_answer": "Ο Πειραιάς",
-      "id": 48
+      "id": 48,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η δεύτερη μεγαλύτερη λίμνη της Ελλάδας;",
@@ -538,7 +634,9 @@
         "Η Βόλβη"
       ],
       "correct_answer": "Η Βόλβη",
-      "id": 49
+      "id": 49,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο σε πληθυσμό νησί των Δωδεκανήσων;",
@@ -549,7 +647,9 @@
         "Η Ρόδος"
       ],
       "correct_answer": "Η Ρόδος",
-      "id": 50
+      "id": 50,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Κεφαλονιάς;",
@@ -560,7 +660,9 @@
         "Το Αργοστόλι"
       ],
       "correct_answer": "Το Αργοστόλι",
-      "id": 51
+      "id": 51,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Πάτρα;",
@@ -571,7 +673,9 @@
         "Στην Πελοπόννησο"
       ],
       "correct_answer": "Στην Πελοπόννησο",
-      "id": 52
+      "id": 52,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πόλη της Θράκης;",
@@ -582,10 +686,12 @@
         "Η Κομοτηνή"
       ],
       "correct_answer": "Η Κομοτηνή",
-      "id": 53
+      "id": 53,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Σε ποιο νησιωτικό σύμπλεγμα  ανήκει η Κίμωλος;",
+      "question": "Σε ποιο νησιωτικό σύμπλεγμα ανήκει η Κίμωλος;",
       "choices": [
         "Στα Δωδεκάνησα",
         "Στα Επτάνησα",
@@ -593,7 +699,9 @@
         "Στις Κυκλάδες"
       ],
       "correct_answer": "Στις Κυκλάδες",
-      "id": 54
+      "id": 54,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο φυσικό λιμάνι της Ελλάδας;",
@@ -604,7 +712,9 @@
         "Η Σούδα"
       ],
       "correct_answer": "Η Σούδα",
-      "id": 55
+      "id": 55,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει η Επίδαυρος;",
@@ -615,7 +725,9 @@
         "Στο νομό Αργολίδας"
       ],
       "correct_answer": "Στο νομό Αργολίδας",
-      "id": 56
+      "id": 56,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει η Καλαμπάκα;",
@@ -626,7 +738,9 @@
         "Στο νομό Τρικάλων"
       ],
       "correct_answer": "Στο νομό Τρικάλων",
-      "id": 57
+      "id": 57,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το ανατολικότερο νησί της Ελλάδας;",
@@ -637,7 +751,9 @@
         "Το Καστελλόριζο"
       ],
       "correct_answer": "Το Καστελλόριζο",
-      "id": 58
+      "id": 58,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα των Σποράδων;",
@@ -648,7 +764,9 @@
         "Η Σκιάθος"
       ],
       "correct_answer": "Η Σκιάθος",
-      "id": 59
+      "id": 59,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο σε μήκος φαράγγι της Ελλάδας;",
@@ -659,7 +777,9 @@
         "Το φαράγγι της Σαμαριάς"
       ],
       "correct_answer": "Το φαράγγι της Σαμαριάς",
-      "id": 60
+      "id": 60,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Χίου;",
@@ -670,7 +790,9 @@
         "Η Χίος"
       ],
       "correct_answer": "Η Χίος",
-      "id": 61
+      "id": 61,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται το Πήλιο;",
@@ -681,7 +803,9 @@
         "Στο νομό Μαγνησίας"
       ],
       "correct_answer": "Στο νομό Μαγνησίας",
-      "id": 62
+      "id": 62,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί βρίσκεται πιο κοντά στην Τουρκία;",
@@ -692,7 +816,9 @@
         "Το Καστελλόριζο"
       ],
       "correct_answer": "Το Καστελλόριζο",
-      "id": 63
+      "id": 63,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη χερσόνησος της Ελλάδας;",
@@ -703,7 +829,9 @@
         "Η Πελοπόννησος"
       ],
       "correct_answer": "Η Πελοπόννησος",
-      "id": 64
+      "id": 64,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται το Δέλτα του Έβρου;",
@@ -714,7 +842,9 @@
         "Στο νομό Έβρου"
       ],
       "correct_answer": "Στο νομό Έβρου",
-      "id": 65
+      "id": 65,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Λευκάδα;",
@@ -725,7 +855,9 @@
         "Στο Ιόνιο"
       ],
       "correct_answer": "Στο Ιόνιο",
-      "id": 66
+      "id": 66,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια πόλη βρίσκεται ο Λευκός Πύργος;",
@@ -736,7 +868,9 @@
         "Στη Θεσσαλονίκη"
       ],
       "correct_answer": "Στη Θεσσαλονίκη",
-      "id": 67
+      "id": 67,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Ρόδου;",
@@ -747,7 +881,9 @@
         "Η Ρόδος"
       ],
       "correct_answer": "Η Ρόδος",
-      "id": 68
+      "id": 68,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το τρίτο μεγαλύτερο νησί της Ελλάδας;",
@@ -758,7 +894,9 @@
         "Η Λέσβος"
       ],
       "correct_answer": "Η Λέσβος",
-      "id": 69
+      "id": 69,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για την Αποκάλυψη του Ιωάννη;",
@@ -769,7 +907,9 @@
         "Η Πάτμος"
       ],
       "correct_answer": "Η Πάτμος",
-      "id": 70
+      "id": 70,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται το Λιτόχωρο;",
@@ -780,18 +920,22 @@
         "Στο νομό Πιερίας"
       ],
       "correct_answer": "Στο νομό Πιερίας",
-      "id": 71
+      "id": 71,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πεδιάδα της Μακεδονίας;",
       "choices": [
-        "Η Πεδιάδα των  Σερρών",
+        "Η Πεδιάδα των Σερρών",
         "Η Πεδιάδα της Δράμας",
-        "Η Πεδιάδα του  Έβρου",
+        "Η Πεδιάδα του Έβρου",
         "Η Πεδιάδα της Θεσσαλονίκης"
       ],
       "correct_answer": "Η Πεδιάδα της Θεσσαλονίκης",
-      "id": 72
+      "id": 72,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί του Αργοσαρωνικού;",
@@ -802,7 +946,9 @@
         "Η Σαλαμίνα"
       ],
       "correct_answer": "Η Σαλαμίνα",
-      "id": 73
+      "id": 73,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί του Αιγαίου Πελάγους;",
@@ -813,7 +959,9 @@
         "Η Κρήτη"
       ],
       "correct_answer": "Η Κρήτη",
-      "id": 74
+      "id": 74,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το βορειότερο νησί της Ελλάδας;",
@@ -824,7 +972,9 @@
         "Η Θάσος"
       ],
       "correct_answer": "Η Θάσος",
-      "id": 75
+      "id": 75,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποιο νομό ανήκει το Άγιο Όρος;",
@@ -835,7 +985,9 @@
         "Στο νομό Χαλκιδικής"
       ],
       "correct_answer": "Στο νομό Χαλκιδικής",
-      "id": 76
+      "id": 76,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος σε πληθυσμό νομός της Ελλάδας;",
@@ -846,7 +998,9 @@
         "Ο νομός Αττικής"
       ],
       "correct_answer": "Ο νομός Αττικής",
-      "id": 77
+      "id": 77,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η δεύτερη μεγαλύτερη πόλη της Κρήτης;",
@@ -857,7 +1011,9 @@
         "Τα Χανιά"
       ],
       "correct_answer": "Τα Χανιά",
-      "id": 78
+      "id": 78,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Καβάλα;",
@@ -868,7 +1024,9 @@
         "Στη Μακεδονία"
       ],
       "correct_answer": "Στη Μακεδονία",
-      "id": 79
+      "id": 79,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται το λιμάνι της Σούδας;",
@@ -879,7 +1037,9 @@
         "Στην Κρήτη"
       ],
       "correct_answer": "Στην Κρήτη",
-      "id": 80
+      "id": 80,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Εύβοιας;",
@@ -890,7 +1050,9 @@
         "Η Χαλκίδα"
       ],
       "correct_answer": "Η Χαλκίδα",
-      "id": 81
+      "id": 81,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια θάλασσα βρίσκεται η Μήλος;",
@@ -901,7 +1063,9 @@
         "Στο Αιγαίο Πέλαγος"
       ],
       "correct_answer": "Στο Αιγαίο Πέλαγος",
-      "id": 82
+      "id": 82,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται το χωριό Οία;",
@@ -912,7 +1076,9 @@
         "Στη Σαντορίνη"
       ],
       "correct_answer": "Στη Σαντορίνη",
-      "id": 83
+      "id": 83,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πιο ορεινός οικισμός της Κρήτης;",
@@ -923,7 +1089,9 @@
         "Τα Σφακιά"
       ],
       "correct_answer": "Τα Σφακιά",
-      "id": 84
+      "id": 84,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νοτιότερο κατοικημένο νησί της Ελλάδας;",
@@ -934,7 +1102,9 @@
         "Η Γαύδος"
       ],
       "correct_answer": "Η Γαύδος",
-      "id": 85
+      "id": 85,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η παραλία Ελαφονήσι;",
@@ -945,7 +1115,9 @@
         "Στην Κρήτη"
       ],
       "correct_answer": "Στην Κρήτη",
-      "id": 86
+      "id": 86,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Ήπειρος;",
@@ -956,7 +1128,9 @@
         "Ηπείρου"
       ],
       "correct_answer": "Ηπείρου",
-      "id": 87
+      "id": 87,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Λέσβου;",
@@ -967,7 +1141,9 @@
         "Η Μυτιλήνη"
       ],
       "correct_answer": "Η Μυτιλήνη",
-      "id": 88
+      "id": 88,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Ζακύνθου;",
@@ -978,7 +1154,9 @@
         "Η Ζάκυνθος"
       ],
       "correct_answer": "Η Ζάκυνθος",
-      "id": 89
+      "id": 89,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ποτάμι διασχίζει την Αθήνα;",
@@ -989,7 +1167,9 @@
         "Ο Κηφισός"
       ],
       "correct_answer": "Ο Κηφισός",
-      "id": 90
+      "id": 90,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει το Ναύπλιο;",
@@ -1000,7 +1180,9 @@
         "Στο νομό Αργολίδας"
       ],
       "correct_answer": "Στο νομό Αργολίδας",
-      "id": 91
+      "id": 91,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί βρίσκεται ανάμεσα στην Κρήτη και τα Κύθηρα;",
@@ -1011,7 +1193,9 @@
         "Τα Αντικύθηρα"
       ],
       "correct_answer": "Τα Αντικύθηρα",
-      "id": 92
+      "id": 92,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα των Ιονίων Νήσων;",
@@ -1022,7 +1206,9 @@
         "Η Κέρκυρα"
       ],
       "correct_answer": "Η Κέρκυρα",
-      "id": 93
+      "id": 93,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι που εκβάλλει στον Θερμαϊκό κόλπο;",
@@ -1033,7 +1219,9 @@
         "Ο Αξιός"
       ],
       "correct_answer": "Ο Αξιός",
-      "id": 94
+      "id": 94,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η ψηλότερη κορυφή του Ολύμπου;",
@@ -1044,7 +1232,9 @@
         "Ο Μύτικας"
       ],
       "correct_answer": "Ο Μύτικας",
-      "id": 95
+      "id": 95,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται η λίμνη Πλαστήρα;",
@@ -1055,7 +1245,9 @@
         "Στη Καρδίτσα"
       ],
       "correct_answer": "Στη Καρδίτσα",
-      "id": 96
+      "id": 96,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη φυσική λίμνη της Μακεδονίας;",
@@ -1066,7 +1258,9 @@
         "Η Βόλβη"
       ],
       "correct_answer": "Η Βόλβη",
-      "id": 97
+      "id": 97,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια θάλασσα βρίσκεται η Κως;",
@@ -1077,10 +1271,12 @@
         "Στο Αιγαίο Πέλαγος"
       ],
       "correct_answer": "Στο Αιγαίο Πέλαγος",
-      "id": 98
+      "id": 98,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Στους πρόποδες ποιου βουνού  βρίσκονται τα Καλάβρυτα;",
+      "question": "Στους πρόποδες ποιου βουνού βρίσκονται τα Καλάβρυτα;",
       "choices": [
         "Του Παρνασσού",
         "Του Ολύμπου",
@@ -1088,7 +1284,9 @@
         "Του Χελμού"
       ],
       "correct_answer": "Του Χελμού",
-      "id": 99
+      "id": 99,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη βρίσκεται πιο κοντά στα Μετέωρα;",
@@ -1099,7 +1297,9 @@
         "Η Καλαμπάκα"
       ],
       "correct_answer": "Η Καλαμπάκα",
-      "id": 100
+      "id": 100,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια πόλη βρίσκεται το Παλάτι του Μεγάλου Μαγίστρου;",
@@ -1110,7 +1310,9 @@
         "Στη Ρόδο"
       ],
       "correct_answer": "Στη Ρόδο",
-      "id": 101
+      "id": 101,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για το απολιθωμένο δάσος του;",
@@ -1121,7 +1323,9 @@
         "Η Λέσβος"
       ],
       "correct_answer": "Η Λέσβος",
-      "id": 102
+      "id": 102,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη της Κρήτης είναι γνωστή για το λιμάνι της με το ενετικό φρούριο Κούλες;",
@@ -1132,7 +1336,9 @@
         "Το Ηράκλειο"
       ],
       "correct_answer": "Το Ηράκλειο",
-      "id": 103
+      "id": 103,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι της Θράκης;",
@@ -1143,7 +1349,9 @@
         "Ο Έβρος"
       ],
       "correct_answer": "Ο Έβρος",
-      "id": 104
+      "id": 104,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό ως «Σμαραγδένιο νησί»;",
@@ -1154,7 +1362,9 @@
         "Η Θάσος"
       ],
       "correct_answer": "Η Θάσος",
-      "id": 105
+      "id": 105,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί των Σποράδων;",
@@ -1165,7 +1375,9 @@
         "Η Σκύρος"
       ],
       "correct_answer": "Η Σκόπελος",
-      "id": 106
+      "id": 106,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια πόλη βρίσκεται το αρχαίο θέατρο της Επιδαύρου;",
@@ -1176,7 +1388,9 @@
         "Το Ναύπλιο"
       ],
       "correct_answer": "Το Ναύπλιο",
-      "id": 107
+      "id": 107,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό είναι γνωστό ως το «Άγιον Όρος»;",
@@ -1187,7 +1401,9 @@
         "Ο Άθως"
       ],
       "correct_answer": "Ο Άθως",
-      "id": 108
+      "id": 108,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για τον παραδοσιακό του χορό, τον «Ικαριώτικο»;",
@@ -1198,18 +1414,22 @@
         "Η Ικαρία"
       ],
       "correct_answer": "Η Ικαρία",
-      "id": 109
+      "id": 109,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Δράμα;",
       "choices": [
         "Της Θράκης",
         "Της Ηπείρου",
-        "Της Στερεάς  Ελλάδας",
+        "Της Στερεάς Ελλάδας",
         "Της Μακεδονίας"
       ],
       "correct_answer": "Της Μακεδονίας",
-      "id": 110
+      "id": 110,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Φλώρινας;",
@@ -1220,7 +1440,9 @@
         "Η Φλώρινα"
       ],
       "correct_answer": "Η Φλώρινα",
-      "id": 111
+      "id": 111,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί είναι γνωστό για το αποστακτήριο μαστίχας του;",
@@ -1231,7 +1453,9 @@
         "Η Χίος"
       ],
       "correct_answer": "Η Χίος",
-      "id": 112
+      "id": 112,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το υψηλότερο βουνό της Πελοποννήσου;",
@@ -1242,7 +1466,9 @@
         "Ο Ταΰγετος"
       ],
       "correct_answer": "Ο Ταΰγετος",
-      "id": 113
+      "id": 113,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει η λίμνη Κερκίνη;",
@@ -1253,7 +1479,9 @@
         "Στις Σέρρες"
       ],
       "correct_answer": "Στις Σέρρες",
-      "id": 114
+      "id": 114,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται το λιμάνι του Γαυρίου;",
@@ -1264,7 +1492,9 @@
         "Στην Άνδρο"
       ],
       "correct_answer": "Στην Άνδρο",
-      "id": 115
+      "id": 115,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι της Ηπείρου;",
@@ -1275,7 +1505,9 @@
         "Ο Άραχθος"
       ],
       "correct_answer": "Ο Άραχθος",
-      "id": 116
+      "id": 116,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Μεσσηνίας;",
@@ -1286,7 +1518,9 @@
         "Η Καλαμάτα"
       ],
       "correct_answer": "Η Καλαμάτα",
-      "id": 117
+      "id": 117,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη είναι γνωστή για το ιστορικό γεφύρι της;",
@@ -1297,7 +1531,9 @@
         "Η Άρτα"
       ],
       "correct_answer": "Η Άρτα",
-      "id": 118
+      "id": 118,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί έχει τη λιμνοθάλασσα της Γιούρας;",
@@ -1308,7 +1544,9 @@
         "Η Αλόννησος"
       ],
       "correct_answer": "Η Αλόννησος",
-      "id": 119
+      "id": 119,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή της Ελλάδας βρίσκεται το φαράγγι του Βίκου;",
@@ -1319,7 +1557,9 @@
         "Στην Ήπειρο"
       ],
       "correct_answer": "Στην Ήπειρο",
-      "id": 120
+      "id": 120,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται το χιονοδρομικό κέντρο Σελίου;",
@@ -1330,7 +1570,9 @@
         "Στο Βέρμιο"
       ],
       "correct_answer": "Στο Βέρμιο",
-      "id": 121
+      "id": 121,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για την παραλία Πόρτο Κατσίκι;",
@@ -1341,7 +1583,9 @@
         "Η Λευκάδα"
       ],
       "correct_answer": "Η Λευκάδα",
-      "id": 122
+      "id": 122,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται το σπήλαιο του Περάματος;",
@@ -1352,7 +1596,9 @@
         "Στα Ιωάννινα"
       ],
       "correct_answer": "Στα Ιωάννινα",
-      "id": 123
+      "id": 123,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική πόλη είναι γνωστή για το κάστρο του Παλαμηδίου;",
@@ -1363,7 +1609,9 @@
         "Το Ναύπλιο"
       ],
       "correct_answer": "Το Ναύπλιο",
-      "id": 124
+      "id": 124,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό είναι γνωστό ως \"Το βουνό των Μουσών\";",
@@ -1374,7 +1622,9 @@
         "Ο Ελικώνας"
       ],
       "correct_answer": "Ο Ελικώνας",
-      "id": 125
+      "id": 125,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Ευρυτανίας;",
@@ -1385,7 +1635,9 @@
         "Το Καρπενήσι"
       ],
       "correct_answer": "Το Καρπενήσι",
-      "id": 126
+      "id": 126,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο γεωγραφικό διαμέρισμα ανήκει η Κόρινθος;",
@@ -1396,7 +1648,9 @@
         "Της Πελοποννήσου"
       ],
       "correct_answer": "Της Πελοποννήσου",
-      "id": 127
+      "id": 127,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο σε μήκος ποτάμι της Πελοποννήσου;",
@@ -1407,7 +1661,9 @@
         "Ο Αλφειός"
       ],
       "correct_answer": "Ο Αλφειός",
-      "id": 128
+      "id": 128,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική λίμνη έχει το μεγαλύτερο βάθος;",
@@ -1418,7 +1674,9 @@
         "Η Βεγορίτιδα"
       ],
       "correct_answer": "Η Βεγορίτιδα",
-      "id": 129
+      "id": 129,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πόλη της Εύβοιας;",
@@ -1429,7 +1687,9 @@
         "Η Χαλκίδα"
       ],
       "correct_answer": "Η Χαλκίδα",
-      "id": 130
+      "id": 130,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί είναι γνωστό για το μοναστήρι της Παναγίας Εκατονταπυλιανής;",
@@ -1440,7 +1700,9 @@
         "Η Πάρος"
       ],
       "correct_answer": "Η Πάρος",
-      "id": 131
+      "id": 131,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η παραλία Σαρακήνικο;",
@@ -1451,7 +1713,9 @@
         "Στη Μήλο"
       ],
       "correct_answer": "Στη Μήλο",
-      "id": 132
+      "id": 132,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό βρίσκεται στα σύνορα Ελλάδας-Αλβανίας;",
@@ -1462,7 +1726,9 @@
         "Ο Γράμμος"
       ],
       "correct_answer": "Ο Γράμμος",
-      "id": 133
+      "id": 133,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του νομού Καρδίτσας;",
@@ -1473,7 +1739,9 @@
         "Η Καρδίτσα"
       ],
       "correct_answer": "Η Καρδίτσα",
-      "id": 134
+      "id": 134,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί του Ιονίου;",
@@ -1484,7 +1752,9 @@
         "Η Κεφαλονιά"
       ],
       "correct_answer": "Η Κεφαλονιά",
-      "id": 135
+      "id": 135,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί είναι γνωστό για το σπήλαιο της Μελισσάνης;",
@@ -1495,7 +1765,9 @@
         "Η Κεφαλονιά"
       ],
       "correct_answer": "Η Κεφαλονιά",
-      "id": 136
+      "id": 136,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται η αρχαία Δωδώνη;",
@@ -1506,7 +1778,9 @@
         "Στο νομό Ιωαννίνων"
       ],
       "correct_answer": "Στο νομό Ιωαννίνων",
-      "id": 137
+      "id": 137,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η Χώρα με τα μαρμάρινα σοκάκια;",
@@ -1517,7 +1791,9 @@
         "Στην Τήνο"
       ],
       "correct_answer": "Στην Τήνο",
-      "id": 138
+      "id": 138,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια ελληνική πόλη βρίσκεται το κάστρο του Μυστρά;",
@@ -1528,7 +1804,9 @@
         "Στη Σπάρτη"
       ],
       "correct_answer": "Στη Σπάρτη",
-      "id": 139
+      "id": 139,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη πόλη της Ηλείας;",
@@ -1539,7 +1817,9 @@
         "Ο Πύργος"
       ],
       "correct_answer": "Ο Πύργος",
-      "id": 140
+      "id": 140,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται το φαράγγι του Βουραϊκού;",
@@ -1550,7 +1830,9 @@
         "Στο νομό Αχαΐας"
       ],
       "correct_answer": "Στο νομό Αχαΐας",
-      "id": 141
+      "id": 141,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το ψηλότερο βουνό της Ρούμελης;",
@@ -1561,7 +1843,9 @@
         "Ο Παρνασσός"
       ],
       "correct_answer": "Ο Παρνασσός",
-      "id": 142
+      "id": 142,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η παραλία Μυλοπόταμος;",
@@ -1572,10 +1856,12 @@
         "Στην Ίο"
       ],
       "correct_answer": "Στην Ίο",
-      "id": 143
+      "id": 143,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Ποιο νησί της Ελλάδας είναι γνωστό και ως  \"Νησί των Φαιάκων\";",
+      "question": "Ποιο νησί της Ελλάδας είναι γνωστό και ως \"Νησί των Φαιάκων\";",
       "choices": [
         "Η Ζάκυνθος",
         "Η Λευκάδα",
@@ -1583,7 +1869,9 @@
         "Η Κέρκυρα"
       ],
       "correct_answer": "Η Κέρκυρα",
-      "id": 144
+      "id": 144,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Φωκίδας;",
@@ -1594,7 +1882,9 @@
         "Η Άμφισσα"
       ],
       "correct_answer": "Η Άμφισσα",
-      "id": 145
+      "id": 145,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη της Θράκης φημίζεται για το καπνεργοστάσιό της;",
@@ -1605,7 +1895,9 @@
         "Η Ξάνθη"
       ],
       "correct_answer": "Η Ξάνθη",
-      "id": 146
+      "id": 146,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο βουνό της Εύβοιας;",
@@ -1616,7 +1908,9 @@
         "Η Δίρφη"
       ],
       "correct_answer": "Η Δίρφη",
-      "id": 147
+      "id": 147,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται το καταφύγιο Σπήλαιο;",
@@ -1627,7 +1921,9 @@
         "Στον Όλυμπο"
       ],
       "correct_answer": "Στον Όλυμπο",
-      "id": 148
+      "id": 148,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό ονομάζεται \"ο Θρόνος του Δία\";",
@@ -1638,7 +1934,9 @@
         "Ο Όλυμπος"
       ],
       "correct_answer": "Ο Όλυμπος",
-      "id": 149
+      "id": 149,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται το Πάπιγκο;",
@@ -1649,7 +1947,9 @@
         "Στην Ήπειρο"
       ],
       "correct_answer": "Στην Ήπειρο",
-      "id": 150
+      "id": 150,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο χωριό του Ζαγορίου;",
@@ -1660,7 +1960,9 @@
         "Το Τσεπέλοβο"
       ],
       "correct_answer": "Το Τσεπέλοβο",
-      "id": 151
+      "id": 151,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται η λίμνη Τριχωνίδα;",
@@ -1671,7 +1973,9 @@
         "Στο νομό Αιτωλοακαρνανίας"
       ],
       "correct_answer": "Στο νομό Αιτωλοακαρνανίας",
-      "id": 152
+      "id": 152,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το δεύτερο μεγαλύτερο νησί του Αιγαίου;",
@@ -1682,7 +1986,9 @@
         "Η Εύβοια"
       ],
       "correct_answer": "Η Εύβοια",
-      "id": 153
+      "id": 153,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό χωρίζει τη Θεσσαλία από τη Μακεδονία;",
@@ -1693,7 +1999,9 @@
         "Ο Όλυμπος"
       ],
       "correct_answer": "Ο Όλυμπος",
-      "id": 154
+      "id": 154,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για το μοναστήρι του Αγίου Ιωάννη του Θεολόγου;",
@@ -1704,7 +2012,9 @@
         "Η Πάτμος"
       ],
       "correct_answer": "Η Πάτμος",
-      "id": 155
+      "id": 155,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το πιο πυκνοκατοικημένο νησί των Δωδεκανήσων;",
@@ -1715,7 +2025,9 @@
         "Η Ρόδος"
       ],
       "correct_answer": "Η Ρόδος",
-      "id": 156
+      "id": 156,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό ανήκει η Ελαφόνησος;",
@@ -1726,7 +2038,9 @@
         "Στο νομό Λακωνίας"
       ],
       "correct_answer": "Στο νομό Λακωνίας",
-      "id": 157
+      "id": 157,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μικρότερο κατοικημένο νησί της Ελλάδας;",
@@ -1737,7 +2051,9 @@
         "Τα Αντικύθηρα"
       ],
       "correct_answer": "Τα Αντικύθηρα",
-      "id": 158
+      "id": 158,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο βουνό είναι γνωστό ως \"το βουνό των Κενταύρων\";",
@@ -1748,7 +2064,9 @@
         "Το Πήλιο"
       ],
       "correct_answer": "Το Πήλιο",
-      "id": 159
+      "id": 159,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι της Κρήτης;",
@@ -1758,8 +2076,10 @@
         "Ο Ταυρωνίτης",
         "Ο Γεροπόταμος"
       ],
-      "correct_answer": "Ο Αναποδάρης",
-      "id": 160
+      "correct_answer": "Ο Γεροπόταμος",
+      "id": 160,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια ελληνική πόλη βρίσκεται το Μπούρτζι;",
@@ -1770,7 +2090,9 @@
         "Στο Ναύπλιο"
       ],
       "correct_answer": "Στο Ναύπλιο",
-      "id": 161
+      "id": 161,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια περιοχή βρίσκεται το φράγμα του Μόρνου;",
@@ -1781,7 +2103,9 @@
         "Στη Φωκίδα"
       ],
       "correct_answer": "Στη Φωκίδα",
-      "id": 162
+      "id": 162,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το βορειότερο νησί των Κυκλάδων;",
@@ -1792,7 +2116,9 @@
         "Η Άνδρος"
       ],
       "correct_answer": "Η Άνδρος",
-      "id": 163
+      "id": 163,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Χαλκιδικής;",
@@ -1803,7 +2129,9 @@
         "Ο Πολύγυρος"
       ],
       "correct_answer": "Ο Πολύγυρος",
-      "id": 164
+      "id": 164,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για την Εγκλουβή και τις φακές της;",
@@ -1814,7 +2142,9 @@
         "Η Λευκάδα"
       ],
       "correct_answer": "Η Λευκάδα",
-      "id": 165
+      "id": 165,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο τεχνητό φράγμα της Ελλάδας;",
@@ -1825,7 +2155,9 @@
         "Το Φράγμα Κρεμαστών"
       ],
       "correct_answer": "Το Φράγμα Κρεμαστών",
-      "id": 166
+      "id": 166,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Που βρίσκεται το ακρωτήριο του Σουνίου;",
@@ -1836,7 +2168,9 @@
         "Στην Αττική"
       ],
       "correct_answer": "Στην Αττική",
-      "id": 167
+      "id": 167,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί είναι γνωστό για τη Χώρα του με τα καπετανόσπιτα;",
@@ -1847,7 +2181,9 @@
         "Η Άνδρος"
       ],
       "correct_answer": "Η Άνδρος",
-      "id": 168
+      "id": 168,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη λίμνη της Μακεδονίας;",
@@ -1858,7 +2194,9 @@
         "Η Βόλβη"
       ],
       "correct_answer": "Η Βόλβη",
-      "id": 169
+      "id": 169,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική πόλη αποκαλείται \"Νύμφη του Παγασητικού\";",
@@ -1869,7 +2207,9 @@
         "Ο Βόλος"
       ],
       "correct_answer": "Ο Βόλος",
-      "id": 170
+      "id": 170,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι της Θεσσαλίας;",
@@ -1880,7 +2220,9 @@
         "Ο Πηνειός"
       ],
       "correct_answer": "Ο Πηνειός",
-      "id": 171
+      "id": 171,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Λευκάδας;",
@@ -1891,7 +2233,9 @@
         "Η Λευκάδα"
       ],
       "correct_answer": "Η Λευκάδα",
-      "id": 172
+      "id": 172,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νοτιότερο νησί των Επτανήσων;",
@@ -1902,7 +2246,9 @@
         "Τα Κύθηρα"
       ],
       "correct_answer": "Τα Κύθηρα",
-      "id": 173
+      "id": 173,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη αλυκή της Ελλάδας;",
@@ -1913,7 +2259,9 @@
         "Του Μεσολογγίου"
       ],
       "correct_answer": "Του Μεσολογγίου",
-      "id": 174
+      "id": 174,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί των Κυκλάδων;",
@@ -1924,7 +2272,9 @@
         "Η Νάξος"
       ],
       "correct_answer": "Η Νάξος",
-      "id": 175
+      "id": 175,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη παραλία της Ελλάδας;",
@@ -1935,7 +2285,9 @@
         "Το Μονολίθι"
       ],
       "correct_answer": "Το Μονολίθι",
-      "id": 176
+      "id": 176,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται το λιμάνι Καμαριώτισσα;",
@@ -1946,7 +2298,9 @@
         "Στη Σαμοθράκη"
       ],
       "correct_answer": "Στη Σαμοθράκη",
-      "id": 177
+      "id": 177,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη φημίζεται για τα καζάνια του τσίπουρου;",
@@ -1957,7 +2311,9 @@
         "Ο Τύρναβος"
       ],
       "correct_answer": "Ο Τύρναβος",
-      "id": 178
+      "id": 178,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη λίμνη της Ηπείρου;",
@@ -1968,7 +2324,9 @@
         "Η Παμβώτιδα"
       ],
       "correct_answer": "Η Παμβώτιδα",
-      "id": 179
+      "id": 179,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί έχει το μοναστήρι της Φανερωμένης;",
@@ -1979,7 +2337,9 @@
         "Η Λευκάδα"
       ],
       "correct_answer": "Η Λευκάδα",
-      "id": 180
+      "id": 180,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται η Καρύταινα;",
@@ -1990,7 +2350,9 @@
         "Στο νομό Αρκαδίας"
       ],
       "correct_answer": "Στο νομό Αρκαδίας",
-      "id": 181
+      "id": 181,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί έχει το χωριό Έμπωνας;",
@@ -2001,7 +2363,9 @@
         "Ρόδος"
       ],
       "correct_answer": "Ρόδος",
-      "id": 182
+      "id": 182,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νοτιότερο σημείο της ηπειρωτικής Ελλάδας;",
@@ -2012,7 +2376,9 @@
         "Ακρωτήριο Ταίναρο"
       ],
       "correct_answer": "Ακρωτήριο Ταίναρο",
-      "id": 183
+      "id": 183,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο λιμάνι των Επτανήσων;",
@@ -2023,7 +2389,9 @@
         "Η Κέρκυρα"
       ],
       "correct_answer": "Η Κέρκυρα",
-      "id": 184
+      "id": 184,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη της Θεσσαλίας είναι γνωστή ως \"Η Πόλη του Καπνού\";",
@@ -2034,7 +2402,9 @@
         "Η Καρδίτσα"
       ],
       "correct_answer": "Η Καρδίτσα",
-      "id": 185
+      "id": 185,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί είναι γνωστό για το ηφαίστειο του;",
@@ -2045,7 +2415,9 @@
         "Η Σαντορίνη"
       ],
       "correct_answer": "Η Σαντορίνη",
-      "id": 186
+      "id": 186,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη είναι γνωστή για το κάστρο του Πλαταμώνα;",
@@ -2056,7 +2428,9 @@
         "Η Κατερίνη"
       ],
       "correct_answer": "Η Κατερίνη",
-      "id": 187
+      "id": 187,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη παραλία της Εύβοιας;",
@@ -2067,7 +2441,9 @@
         "Η Χιλιαδού"
       ],
       "correct_answer": "Η Αγία Άννα",
-      "id": 188
+      "id": 188,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο ποτάμι της Δυτικής Μακεδονίας;",
@@ -2078,7 +2454,9 @@
         "Ο Αλιάκμονας"
       ],
       "correct_answer": "Ο Αλιάκμονας",
-      "id": 189
+      "id": 189,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται η Μονή Μεγίστης Λαύρας;",
@@ -2089,7 +2467,9 @@
         "Στο Άγιο Όρος"
       ],
       "correct_answer": "Στο Άγιο Όρος",
-      "id": 190
+      "id": 190,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του νομού Φωκίδας;",
@@ -2100,7 +2480,9 @@
         "Η Άμφισσα"
       ],
       "correct_answer": "Η Άμφισσα",
-      "id": 191
+      "id": 191,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική πόλη είναι γνωστή για το καρναβάλι της;",
@@ -2111,7 +2493,9 @@
         "Η Πάτρα"
       ],
       "correct_answer": "Η Πάτρα",
-      "id": 192
+      "id": 192,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νομό βρίσκεται η λίμνη Κερκίνη;",
@@ -2122,7 +2506,9 @@
         "Στο νομό Σερρών"
       ],
       "correct_answer": "Στο νομό Σερρών",
-      "id": 193
+      "id": 193,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται η λίμνη Πλαστήρα;",
@@ -2133,7 +2519,9 @@
         "Στα Άγραφα"
       ],
       "correct_answer": "Στα Άγραφα",
-      "id": 194
+      "id": 194,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μοναδική ελληνική πόλη χτισμένη σε λίμνη;",
@@ -2144,7 +2532,9 @@
         "Η Καστοριά"
       ],
       "correct_answer": "Η Καστοριά",
-      "id": 195
+      "id": 195,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη οροσειρά της Ελλάδας;",
@@ -2155,7 +2545,9 @@
         "Η Πίνδος"
       ],
       "correct_answer": "Η Πίνδος",
-      "id": 196
+      "id": 196,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ποτάμι διασχίζει την πόλη της Δράμας;",
@@ -2166,7 +2558,9 @@
         "Ο Αγγίτης"
       ],
       "correct_answer": "Ο Αγγίτης",
-      "id": 197
+      "id": 197,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Που βρίσκεται το κάστρο του Μυστρά;",
@@ -2177,7 +2571,9 @@
         "Στη Σπάρτη"
       ],
       "correct_answer": "Στη Σπάρτη",
-      "id": 198
+      "id": 198,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί είναι γνωστό για τον αρχαίο ναό της Αφαίας;",
@@ -2188,7 +2584,9 @@
         "Η Αίγινα"
       ],
       "correct_answer": "Η Αίγινα",
-      "id": 199
+      "id": 199,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του νομού Πέλλας;",
@@ -2199,7 +2597,9 @@
         "Η Έδεσσα"
       ],
       "correct_answer": "Η Έδεσσα",
-      "id": 200
+      "id": 200,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ποτάμι διασχίζει την πόλη της Καλαμάτας;",
@@ -2210,18 +2610,22 @@
         "Ο Νέδοντας"
       ],
       "correct_answer": "Ο Νέδοντας",
-      "id": 201
+      "id": 201,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί φημίζεται για τα σπήλαια Μελισσάνης και Δρογκαράτης;",
       "choices": [
-        "Στη Ζάκυνθο",
-        "Στη Λευκάδα",
-        "Στην Ιθάκη",
-        "Στην Κεφαλονιά"
+        "Η Ζάκυνθο",
+        "Η Λευκάδα",
+        "Η Ιθάκη",
+        "Η Κεφαλονιά"
       ],
-      "correct_answer": "Στην Κεφαλονιά",
-      "id": 202
+      "correct_answer": "Η Κεφαλονιά",
+      "id": 202,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί βρίσκεται η διάσημη Κοιλάδα με τις Πεταλούδες;",
@@ -2232,7 +2636,9 @@
         "Στη Ρόδο"
       ],
       "correct_answer": "Στη Ρόδο",
-      "id": 203
+      "id": 203,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ελληνικό νησί φημίζεται για την παραγωγή μανταρινιών;",
@@ -2243,7 +2649,9 @@
         "Η Χίος"
       ],
       "correct_answer": "Η Χίος",
-      "id": 204
+      "id": 204,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο ποτάμι σχηματίζει τον καταρράκτη της Έδεσσας;",
@@ -2254,7 +2662,9 @@
         "Ο Εδεσσαίος"
       ],
       "correct_answer": "Ο Εδεσσαίος",
-      "id": 205
+      "id": 205,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ελληνική πόλη είναι γνωστή για τη Σπηλιά του Δράκου;",
@@ -2265,7 +2675,9 @@
         "Η Καστοριά"
       ],
       "correct_answer": "Η Καστοριά",
-      "id": 206
+      "id": 206,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πού βρίσκεται η περιοχή Βουρβουρού;",
@@ -2276,7 +2688,9 @@
         "Στη Χαλκιδική"
       ],
       "correct_answer": "Στη Χαλκιδική",
-      "id": 207
+      "id": 207,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο λιμάνι της Θεσσαλίας;",
@@ -2287,7 +2701,9 @@
         "Ο Βόλος"
       ],
       "correct_answer": "Ο Βόλος",
-      "id": 208
+      "id": 208,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ευρωπαϊκή χωρα εκτος απο την Ουγγαρία είχε ως νομισμα το φιορίνι;",
@@ -2298,7 +2714,9 @@
         "Η Ιταλία"
       ],
       "correct_answer": "Η Ολλανδία",
-      "id": 209
+      "id": 209,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Το όνομα ποιας χώρας της Λατινικής Αμερικής σημαίνει στα ελληνικά «Μικρή Βενετία»;",
@@ -2309,7 +2727,9 @@
         "Της Χιλής"
       ],
       "correct_answer": "Της Βενεζουέλας",
-      "id": 210
+      "id": 210,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιας χώρας το εθνικό φαγητό είναι το χάγκις, ένα μείγμα από εντόσθια αρνιού μαγειρεμένα με βρώμη;",
@@ -2320,7 +2740,9 @@
         "Της Τυνησίας"
       ],
       "correct_answer": "Της Σκωτίας",
-      "id": 211
+      "id": 211,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια χώρα βρίσκεται το ψηλότερο βουνό της Αφρικής;",
@@ -2331,7 +2753,9 @@
         "Στην Αίγυπτο"
       ],
       "correct_answer": "Στην Τανζανία",
-      "id": 212
+      "id": 212,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ήπειρος απλώνεται και στα τέσσερα ημισφαίρια, βόρειο, νότιο, ανατολικό και δυτικό;",
@@ -2342,7 +2766,9 @@
         "Η Αφρική"
       ],
       "correct_answer": "Η Αφρική",
-      "id": 213
+      "id": 213,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Στη Μεσόγειο θάλασσα δεν υπάρχουν καρχαρίες.",
@@ -2351,7 +2777,9 @@
         "Λάθος"
       ],
       "correct_answer": "Λάθος",
-      "id": 214
+      "id": 214,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποια από τις παρακάτω χώρες της ηπειρωτικής Ευρώπης φτάνει βορειότερα;",
@@ -2361,7 +2789,9 @@
         "Η Φινλανδία"
       ],
       "correct_answer": "Η Νορβηγία",
-      "id": 215
+      "id": 215,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η Γερμανία συνορεύει με τη Σλοβενία.",
@@ -2370,7 +2800,9 @@
         "Λάθος"
       ],
       "correct_answer": "Λάθος",
-      "id": 216
+      "id": 216,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Σε ποια ήπειρο βρίσκεται η λίμνη Βοστόκ, η έκτη μεγαλύτερη λίμνη στον κόσμο;",
@@ -2381,7 +2813,9 @@
         "Στην Αφρική"
       ],
       "correct_answer": "Στην Ανταρκτική",
-      "id": 217
+      "id": 217,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Μοζαμβίκης;",
@@ -2392,7 +2826,9 @@
         "Το Λεόν"
       ],
       "correct_answer": "Το Μαπούτο",
-      "id": 218
+      "id": 218,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα της Ευρωπαϊκής Ένωσης οι περισσότεροι κάτοικοι μιλούν την ίδια μητρική γλώσσα;",
@@ -2403,7 +2839,9 @@
         "Στη Δανία"
       ],
       "correct_answer": "Στη Γερμανία",
-      "id": 219
+      "id": 219,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Τι είναι οι καμάρες στην Καβάλα;",
@@ -2414,10 +2852,12 @@
         "Οθωμανικό Υδραγωγείο"
       ],
       "correct_answer": "Οθωμανικό Υδραγωγείο",
-      "id": 220
+      "id": 220,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Ποιο νησί στο Αιγαίο φημίζεται για τα  μικρόσωμα άλογα που ζουν εκεί;",
+      "question": "Ποιο νησί στο Αιγαίο φημίζεται για τα μικρόσωμα άλογα που ζουν εκεί;",
       "choices": [
         "Η Σκύρος",
         "Η Αντίπαρος",
@@ -2425,7 +2865,9 @@
         "Η Σαμοθράκη"
       ],
       "correct_answer": "Η Σκύρος",
-      "id": 221
+      "id": 221,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο συγκρότημα νησιών ανήκει η Σχοινούσα;",
@@ -2436,7 +2878,9 @@
         "Στις Σποράδες"
       ],
       "correct_answer": "Στις Κυκλάδες",
-      "id": 222
+      "id": 222,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιον διάσημο ουρανοξύστη της Νέας Υόρκης θα τον μπέρδευε κανείς με μάρκα αυτοκινήτου;",
@@ -2447,7 +2891,9 @@
         "Κάντιλακ"
       ],
       "correct_answer": "Κράισλερ",
-      "id": 223
+      "id": 223,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Που βρίσκεται η έδρα του ΝΑΤΟ;",
@@ -2458,7 +2904,9 @@
         "Στις Βρυξέλλες"
       ],
       "correct_answer": "Στις Βρυξέλλες",
-      "id": 224
+      "id": 224,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος ποταμός της Ευρώπης;",
@@ -2469,7 +2917,9 @@
         "Ο Δνείπερος"
       ],
       "correct_answer": "Ο Βόλγας",
-      "id": 225
+      "id": 225,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο νησί του Ιονίου έχει προστάτη τον Άγιο Γεράσιμο;",
@@ -2480,7 +2930,9 @@
         "Η Λευκάδα"
       ],
       "correct_answer": "Η Κεφαλονιά",
-      "id": 226
+      "id": 226,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Το κοινοβούλιο ποιας χώρας στεγάζεται στο μεγαλύτερο κτίριο του κόσμου;",
@@ -2491,7 +2943,9 @@
         "Της Ρωσίας"
       ],
       "correct_answer": "Της Ρουμανίας",
-      "id": 227
+      "id": 227,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρας της Λατινικής Αμερικής έχει σημαία που θυμίζει την ελληνική;",
@@ -2502,7 +2956,9 @@
         "Η Ουρουγουάη"
       ],
       "correct_answer": "Η Ουρουγουάη",
-      "id": 228
+      "id": 228,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη στον κόσμο μπορεί να υπερηφανεύεται για το παλαιότερο μετρό;",
@@ -2513,7 +2969,9 @@
         "Το Παρίσι"
       ],
       "correct_answer": "Το Λονδίνο",
-      "id": 229
+      "id": 229,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα εκτός Ευρώπης μιλάει την Ολλανδική γλώσσα η πλειοψηφία του πληθυσμού;",
@@ -2524,7 +2982,9 @@
         "Στη Νέα Ζηλανδία"
       ],
       "correct_answer": "Στο Σουρινάμ",
-      "id": 230
+      "id": 230,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Στην πλατεία ποιας χώρας βρίσκεται ο Καθεδρικός Ναός του Αγίου Βασιλείου;",
@@ -2535,7 +2995,9 @@
         "Της Μόσχας"
       ],
       "correct_answer": "Της Μόσχας",
-      "id": 231
+      "id": 231,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από τις παρακάτω πρωτεύουσες βρίσκεται βορειότερα;",
@@ -2546,29 +3008,35 @@
         "Η Στοκχόλμη"
       ],
       "correct_answer": "Το Ρέικιαβικ",
-      "id": 232
+      "id": 232,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από τις παρακάτω χώρες της Ευρώπης δεν βρέχεται από θάλασσα;",
       "choices": [
-        "Η Σερβία",
+        "Η Κροατία",
         "Η Σλοβακία",
-        "Το Μαυροβούνιο",
-        "Η Λετονία"
+        "Η Λιθουανία",
+        "Η Αλβανία"
       ],
       "correct_answer": "Η Σλοβακία",
-      "id": 233
+      "id": 233,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο κράτος της Ευρώπης έχει τη μικρότερη έκταση;",
       "choices": [
         "Το Λιχτενστάιν",
         "Το Σαν Μαρίνο",
-        "Το Μονακό",
+        "Το Βατικανό",
         "Η Ανδόρα"
       ],
-      "correct_answer": "Το Μονακό",
-      "id": 234
+      "correct_answer": "Το Βατικανό",
+      "id": 234,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Από ποια χώρα κατάγεται ο Τεντεν και τα στρουμφάκια;",
@@ -2579,7 +3047,9 @@
         "Το Βέλγιο"
       ],
       "correct_answer": "Το Βέλγιο",
-      "id": 235
+      "id": 235,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα της ηπειρωτικής Αφρικής είναι βορειότερα;",
@@ -2590,7 +3060,9 @@
         "Η Αίγυπτος"
       ],
       "correct_answer": "Η Τυνησία",
-      "id": 236
+      "id": 236,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο κράτος έχει τον μεγαλύτερο αριθμό μουσουλμάνων;",
@@ -2601,7 +3073,9 @@
         "Η Ινδονησία"
       ],
       "correct_answer": "Η Ινδονησία",
-      "id": 237
+      "id": 237,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια γλώσσα η λέξη για το πιπέρι είναι πάπρικα;",
@@ -2612,7 +3086,9 @@
         "Στη γερμανική"
       ],
       "correct_answer": "Στην ουγγρική",
-      "id": 238
+      "id": 238,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη λίμνη της Αφρικής;",
@@ -2623,7 +3099,9 @@
         "Η Τουρκάνα"
       ],
       "correct_answer": "Η Βικτόρια",
-      "id": 239
+      "id": 239,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Που εκβάλλει ο Βόλγας, ο μεγαλύτερος ποταμός της Ευρώπης",
@@ -2634,7 +3112,9 @@
         "Στη Βαλτική θάλασσα"
       ],
       "correct_answer": "Στην Κασπία θάλασσα",
-      "id": 240
+      "id": 240,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Μάλτας;",
@@ -2645,7 +3125,9 @@
         "Η Βαλέτα"
       ],
       "correct_answer": "Η Βαλέτα",
-      "id": 241
+      "id": 241,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο κράτος δημιουργήθηκε όταν αποσχίστηκε το Ανατολικό από το Δυτικό Πακιστάν;",
@@ -2656,10 +3138,12 @@
         "Το Νεπάλ"
       ],
       "correct_answer": "Το Μπαγκλαντές",
-      "id": 242
+      "id": 242,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Τα εδάφη ποιας αφρικανικής  χώρας ανηκουν σε χώρα της Ευρωπαϊκής Ένωσης και είναι περιφραγμένα, ώστε να εμποδίζεται η παράνομη είσοδος;",
+      "question": "Τα εδάφη ποιας αφρικανικής χώρας ανηκουν σε χώρα της Ευρωπαϊκής Ένωσης και είναι περιφραγμένα, ώστε να εμποδίζεται η παράνομη είσοδος;",
       "choices": [
         "Της Τυνησίας",
         "Της Αιγύπτου",
@@ -2667,7 +3151,9 @@
         "Του Μαρόκου"
       ],
       "correct_answer": "Του Μαρόκου",
-      "id": 243
+      "id": 243,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο θρυλικό καμπαρέ του Παρισιού, με ανεμόμυλο στη στέγη άνοιξε το 1889;",
@@ -2678,7 +3164,9 @@
         "Το Χορς"
       ],
       "correct_answer": "Το Μουλέν Ρουζ",
-      "id": 244
+      "id": 244,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η Οτάβα, η πρωτεύουσα του Καναδά είναι και η μεγαλύτερη πόλη σε πληθυσμό.",
@@ -2687,7 +3175,9 @@
         "Λάθος"
       ],
       "correct_answer": "Λάθος",
-      "id": 245
+      "id": 245,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Σε ποια χώρα ανήκει το νησί Γκόζο;",
@@ -2698,7 +3188,9 @@
         "Στη Μαδαγασκάρη"
       ],
       "correct_answer": "Στη Μάλτα",
-      "id": 246
+      "id": 246,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα ζούσε ο Αϊνστάιν όταν ανέπτυξε τη θεωρία της σχετικότητας;",
@@ -2709,10 +3201,12 @@
         "Στην Αυστρία"
       ],
       "correct_answer": "Στην Ελβετία",
-      "id": 247
+      "id": 247,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
-      "question": "Που βρίσκεται το μεγαλύτερο επισκέψιμο  σπήλαιο πάγου του κόσμου;",
+      "question": "Που βρίσκεται το μεγαλύτερο επισκέψιμο σπήλαιο πάγου του κόσμου;",
       "choices": [
         "Στην Ισλανδία",
         "Στη Νορβηγία",
@@ -2720,7 +3214,9 @@
         "Στην Αυστρία"
       ],
       "correct_answer": "Στην Αυστρία",
-      "id": 248
+      "id": 248,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ευρωπαϊκή πρωτεύουσα δέχεται τις λιγότερες βροχοπτώσεις κατά μέσο όρο;",
@@ -2731,7 +3227,9 @@
         "Η Λισαβώνα"
       ],
       "correct_answer": "Η Αθήνα",
-      "id": 249
+      "id": 249,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Απο ποια χώρα προέρχεται το αλάτι Ιμαλαΐων;",
@@ -2742,7 +3240,9 @@
         "Από την Ινδία"
       ],
       "correct_answer": "Από το Πακιστάν",
-      "id": 250
+      "id": 250,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια πόλη βρίσκεται το Λίντο, γνωστο για το φεστιβάλ κινηματογράφου που φιλοξενεί;",
@@ -2753,7 +3253,9 @@
         "Στο Σαν Ρέμο"
       ],
       "correct_answer": "Στη Βενετία",
-      "id": 251
+      "id": 251,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια ευρωπαϊκή πόλη έχει την έδρα της η Ευρωπαϊκή Κεντρική Τράπεζα;",
@@ -2764,7 +3266,9 @@
         "Στη Φρανκφούρτη"
       ],
       "correct_answer": "Στη Φρανκφούρτη",
-      "id": 252
+      "id": 252,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η Καστοριά είναι χτισμένη σε νησί της ομώνυμης λίμνης.",
@@ -2773,7 +3277,9 @@
         "Λάθος"
       ],
       "correct_answer": "Λάθος",
-      "id": 253
+      "id": 253,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Σε ποια πόλη βρίσκονται θαμμένοι ο Όσκαρ Ουάιλντ, ο Τζιμ Μόρισον και ο Μολιέρος;",
@@ -2784,7 +3290,9 @@
         "Στο Παρίσι"
       ],
       "correct_answer": "Στο Παρίσι",
-      "id": 254
+      "id": 254,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα της Νότιας Αμερικής βρίσκεται η έρημος Ατακάμα, ένα από τα ξηρότερα μέρη της Γης;",
@@ -2795,7 +3303,9 @@
         "Στη Βραζιλία"
       ],
       "correct_answer": "Στη Χιλή",
-      "id": 255
+      "id": 255,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Κοντά σε ποια τεχνητή λίμνη βρίσκεται η πόλη των Σερβίων Κοζάνης;",
@@ -2806,7 +3316,9 @@
         "Στη λίμνη Μαραθώνα"
       ],
       "correct_answer": "Στη λίμνη Πολυφύτου",
-      "id": 256
+      "id": 256,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Απο ποια οροσειρά κατάγονται τα ινδικά χοιρίδια;",
@@ -2817,7 +3329,9 @@
         "Από τις Άλπεις"
       ],
       "correct_answer": "Από τις Άνδεις",
-      "id": 257
+      "id": 257,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Το Βιετνάμ είναι πρώην αποικία ποιας ευρωπαϊκής χώρας;",
@@ -2828,7 +3342,9 @@
         "Του Βελγίου"
       ],
       "correct_answer": "Της Γαλλίας",
-      "id": 258
+      "id": 258,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πόσες ζώνες ώρας χρησιμοποιεί η Κίνα;",
@@ -2839,7 +3355,9 @@
         "Επτά"
       ],
       "correct_answer": "Μία",
-      "id": 259
+      "id": 259,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από τις παρακάτω χώρες καλύπτει τις ανάγκες της για ηλεκτρισμό αποκλειστικά από ανανεώσιμες πηγές ενέργειας;",
@@ -2850,7 +3368,9 @@
         "Η Κόστα Ρίκα"
       ],
       "correct_answer": "Η Κόστα Ρίκα",
-      "id": 260
+      "id": 260,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Στη ζούγκλα ποιας χώρας διαδραματίζεται η ιστορία του Μόγλη;",
@@ -2861,7 +3381,9 @@
         "Της Ινδίας"
       ],
       "correct_answer": "Της Ινδίας",
-      "id": 261
+      "id": 261,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Στην είσοδο ποιας πόλης βρίσκεται η γέφυρα Βερατσάνο;",
@@ -2872,7 +3394,9 @@
         "Της Πράγας"
       ],
       "correct_answer": "Της Νέας Υόρκης",
-      "id": 262
+      "id": 262,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του Μαρόκου;",
@@ -2883,7 +3407,9 @@
         "Η Φεζ"
       ],
       "correct_answer": "Το Ραμπάτ",
-      "id": 263
+      "id": 263,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο κράτος ανήκουν τα νησιά Γκαλαπάγκος όπου ο Δαρβίνος ανέπτυξε τη θεωρία της εξέλιξης των ειδών;",
@@ -2894,7 +3420,9 @@
         "Στο Εκουαδόρ"
       ],
       "correct_answer": "Στο Εκουαδόρ",
-      "id": 264
+      "id": 264,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο ευρωπαϊκό κράτος έχει στη σημαία του το χάρτη της χώρας;",
@@ -2905,7 +3433,9 @@
         "Η Μάλτα"
       ],
       "correct_answer": "Η Κύπρος",
-      "id": 265
+      "id": 265,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Που βρίσκεται το σπήλαιο Αλεπότρυπα;",
@@ -2916,7 +3446,9 @@
         "Στην Αλεξανδρούπολη"
       ],
       "correct_answer": "Στη Μάνη",
-      "id": 266
+      "id": 266,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια από τις παρακάτω χώρες δεν είναι επίσημη αργία η 1η Μαΐου;",
@@ -2927,7 +3459,9 @@
         "Στη Γαλλία"
       ],
       "correct_answer": "Στο Ηνωμένο Βασίλειο",
-      "id": 267
+      "id": 267,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πόσες από τις χώρες της Βαλτικής είναι κράτη μέλη της Ευρωπαϊκής Ένωσης;",
@@ -2938,7 +3472,9 @@
         "Καμία"
       ],
       "correct_answer": "Τρεις",
-      "id": 268
+      "id": 268,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια αρχαία πόλη βρίσκεται βόρεια της Πρέβεζας;",
@@ -2949,7 +3485,9 @@
         "Ο Άγιος Νικόλαος"
       ],
       "correct_answer": "Η Νικόπολη",
-      "id": 269
+      "id": 269,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η σημαία ποιας χώρας της Νότιας Αμερικής έχει 27 αστέρια;",
@@ -2960,7 +3498,9 @@
         "Της Παραγουάης"
       ],
       "correct_answer": "Της Βραζιλίας",
-      "id": 270
+      "id": 270,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πόσες είναι οι Μεγάλες Λίμνες ανάμεσα στα σύνορα Καναδά και ΗΠΑ;",
@@ -2971,7 +3511,9 @@
         "Πέντε"
       ],
       "correct_answer": "Πέντε",
-      "id": 271
+      "id": 271,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Πως ονομάζεται η λονδρέζικη κινητή γέφυρα με τους δύο πύργους;",
@@ -2982,7 +3524,9 @@
         "Κινγκς Μπριτζ"
       ],
       "correct_answer": "Τάουερ Μπριτζ",
-      "id": 272
+      "id": 272,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα της Ευρώπης νομιμοποίησε το διαζύγιο μόλις το 2011;",
@@ -2993,7 +3537,9 @@
         "Η Βουλγαρία"
       ],
       "correct_answer": "Η Μάλτα",
-      "id": 273
+      "id": 273,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα βρίσκεται η Πούντα Αρένας, η νοτιότερη πόλη του κόσμου;",
@@ -3004,7 +3550,9 @@
         "Στη Νέα Ζηλανδία"
       ],
       "correct_answer": "Στη Χιλή",
-      "id": 274
+      "id": 274,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα της Αφρικής είναι γνωστή για την εξόρυξη χρυσού και διαμαντιών στα τέλη του 19ου αιώνα;",
@@ -3015,7 +3563,9 @@
         "Η Νότια Αφρική"
       ],
       "correct_answer": "Η Νότια Αφρική",
-      "id": 275
+      "id": 275,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Το ιστορικό κέντρο ποιας πόλης κάηκε ολοσχερώς το 1917;",
@@ -3026,7 +3576,9 @@
         "Της Κομοτηνής"
       ],
       "correct_answer": "Της Θεσσαλονίκης",
-      "id": 276
+      "id": 276,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Όλες οι σκανδιναβικές χώρες έχουν σημαία με σταυρό.Ποια είναι η παλαιότερη που ενέπνευσε και τις άλλες;",
@@ -3037,7 +3589,9 @@
         "Η Φινλανδική"
       ],
       "correct_answer": "Η Δανέζικη",
-      "id": 277
+      "id": 277,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η δεύτερη μεγαλύτερη πόλη της Γερμανίας σε πληθυσμό αλλά και σε έκταση;",
@@ -3048,7 +3602,9 @@
         "Η Στουτγκάρδη"
       ],
       "correct_answer": "Το Αμβούργο",
-      "id": 278
+      "id": 278,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ο Δούναβης διασχίζει τέσσερις πρωτεύουσες χωρών, τη Βιέννη, τη Βουδαπέστη, τη Μπρατισλάβα και ποια άλλη;",
@@ -3059,16 +3615,20 @@
         "Την Πρίστινα"
       ],
       "correct_answer": "Το Βελιγράδι",
-      "id": 279
+      "id": 279,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
-      "question": "Η Γροιλανδία και τα νησιά  Φερόες ανήκουν στη Δανία.",
+      "question": "Η Γροιλανδία και τα νησιά Φερόες ανήκουν στη Δανία.",
       "choices": [
         "Σωστό",
         "Λάθος"
       ],
       "correct_answer": "Σωστό",
-      "id": 280
+      "id": 280,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποια πόλη είχε επί τουρκοκρατίας το όνομα Σάλωνα;",
@@ -3079,7 +3639,9 @@
         "Το Ναύπλιο"
       ],
       "correct_answer": "Η Άμφισσα",
-      "id": 281
+      "id": 281,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η επίσημη γλώσσα της Μοζαμβίκης και της Αγκόλας;",
@@ -3090,7 +3652,9 @@
         "Η πορτογαλική"
       ],
       "correct_answer": "Η πορτογαλική",
-      "id": 282
+      "id": 282,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα έχει τη μεγαλύτερη παραγωγή φακής;",
@@ -3101,7 +3665,9 @@
         "Το Πακιστάν"
       ],
       "correct_answer": "Ο Καναδάς",
-      "id": 283
+      "id": 283,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια πόλη κατέληγε η διαδρομή του Όριεντ Εξπρές που ξεκινούσε καθημερινά από το Παρίσι;",
@@ -3112,7 +3678,9 @@
         "Στο Βουκουρέστι"
       ],
       "correct_answer": "Στην Κωνσταντινούπολη",
-      "id": 284
+      "id": 284,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη λίμνη της Νότιας Αμερικής;",
@@ -3123,7 +3691,9 @@
         "Η λίμνη Τιτικάκα"
       ],
       "correct_answer": "Η λίμνη Τιτικάκα",
-      "id": 285
+      "id": 285,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νόμισμα της Γροιλανδίας;",
@@ -3134,7 +3704,9 @@
         "Καναδικό δολάριο"
       ],
       "correct_answer": "Δανέζικη κορόνα",
-      "id": 286
+      "id": 286,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιας ασιατικής χώρας είναι πρωτεύουσα η Ντάκα;",
@@ -3145,7 +3717,9 @@
         "Της Υεμένης"
       ],
       "correct_answer": "Του Μπαγκλαντές",
-      "id": 287
+      "id": 287,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Το Μυρτώο Πέλαγος βρίσκεται δυτικά των -",
@@ -3156,7 +3730,9 @@
         "Επτανήσων"
       ],
       "correct_answer": "Κυκλάδων",
-      "id": 288
+      "id": 288,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο επιτραπέζιο παιχνίδι απαγόρευσε ο Φιντέλ Κάστρο στην Κούβα «ως σύμβολο του καπιταλιστικού κόσμου»;",
@@ -3167,7 +3743,9 @@
         "Το μπριτζ"
       ],
       "correct_answer": "Τη μονόπολη",
-      "id": 289
+      "id": 289,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η ονομασία του ρωσικού κατεχόμενου εδάφους μεταξύ της Πολωνίας και της Λιθουανίας;",
@@ -3178,7 +3756,9 @@
         "Καλίνινγκραντ"
       ],
       "correct_answer": "Καλίνινγκραντ",
-      "id": 290
+      "id": 290,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο νησί της Μεσογείου;",
@@ -3189,7 +3769,9 @@
         "Η κορσική"
       ],
       "correct_answer": "Η Σικελία",
-      "id": 291
+      "id": 291,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια χώρα είναι καταγεγραμμένη για πρώτη φορά η χρήση της κανέλας;",
@@ -3200,7 +3782,9 @@
         "Στη Σρι Λάνκα"
       ],
       "correct_answer": "Στην Αίγυπτο",
-      "id": 292
+      "id": 292,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα είναι γνωστή για τον «Θρόνο των χρυσάνθεμων», δηλαδη τον αυτοκρατορικό θρόνο ;",
@@ -3211,7 +3795,9 @@
         "Η Ιαπωνία"
       ],
       "correct_answer": "Η Ιαπωνία",
-      "id": 293
+      "id": 293,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια χώρα βρίσκεται ο βορειότερος οικισμός του πλανήτη με μόνιμο πληθυσμό;",
@@ -3222,7 +3808,9 @@
         "Στη Φινλανδία"
       ],
       "correct_answer": "Στη Νορβηγία",
-      "id": 294
+      "id": 294,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια πόλη της βόρειας Ελλάδας διεκδικεί την πατρότητα της μπουγάτσας;",
@@ -3233,7 +3821,9 @@
         "Η Αλεξανδρούπολη"
       ],
       "correct_answer": "Οι Σέρρες",
-      "id": 295
+      "id": 295,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο βουνό βρίσκεται το χιονοδρομικό κέντρο Τρία-Πέντε Πηγάδια;",
@@ -3244,7 +3834,9 @@
         "Στο Παγγαίο"
       ],
       "correct_answer": "Στο Βέρμιο",
-      "id": 296
+      "id": 296,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πρωτεύουσα ποιου μεγάλου νησιού είναι η Νουούκ;",
@@ -3255,7 +3847,9 @@
         "Της Σιγκαπούρης"
       ],
       "correct_answer": "Της Γροιλανδίας",
-      "id": 297
+      "id": 297,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Που βρίσκεται το κάστρο του Μπαλμόραλ;",
@@ -3266,7 +3860,9 @@
         "Στη Σκωτία"
       ],
       "correct_answer": "Στη Σκωτία",
-      "id": 298
+      "id": 298,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Οι σαρδέλες έχουν πάρει το όνομά τους από τη Σαρδηνία.",
@@ -3275,7 +3871,9 @@
         "Λάθος"
       ],
       "correct_answer": "Σωστό",
-      "id": 299
+      "id": 299,
+      "difficulty_score": 3,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποιο ήταν το νόμισμα της Φινλανδίας πριν το ευρώ;",
@@ -3286,7 +3884,9 @@
         "Η φινλανδική στερλίνα"
       ],
       "correct_answer": "Το φινλανδικό μάρκο",
-      "id": 300
+      "id": 300,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η πρωτεύουσα ποιας χώρας έχει τους περισσότερους ομιλητές γαλλικής μετά το Παρίσι;",
@@ -3297,7 +3897,9 @@
         "Της Γκάνα"
       ],
       "correct_answer": "Του Κονγκό",
-      "id": 301
+      "id": 301,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποιο νησί του Ινδικού ωκεανού ζούσε το πτηνό ντόντο, που πλέον έχει εκλείψει;",
@@ -3308,7 +3910,9 @@
         "Στις Σεϋχέλλες"
       ],
       "correct_answer": "Στον Μαυρίκιο",
-      "id": 302
+      "id": 302,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποια ακτή της Αυστραλίας βρίσκεται το Περθ;",
@@ -3319,7 +3923,9 @@
         "Στη βόρεια"
       ],
       "correct_answer": "Στη δυτική",
-      "id": 303
+      "id": 303,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο κράτος της Αφρικής είναι γνωστό ως «Χώρα των χιλίων λόφων»;",
@@ -3330,7 +3936,9 @@
         "Η Ρουάντα"
       ],
       "correct_answer": "Η Ρουάντα",
-      "id": 304
+      "id": 304,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πρωτεύουσα ποιας χώρας είναι η Μπρατισλάβα;",
@@ -3341,7 +3949,9 @@
         "Της Βοσνίας και Ερζεγοβίνης"
       ],
       "correct_answer": "Της Σλοβακίας",
-      "id": 305
+      "id": 305,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιά χώρα συναντάμε το παλαιότερο επώνυμο κρασί στον κόσμο;",
@@ -3352,7 +3962,9 @@
         "Στην Ισπανία"
       ],
       "correct_answer": "Στην Κύπρο",
-      "id": 306
+      "id": 306,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιά πόλη διοργανώνεται κάθε Χριστούγεννα η Ονειρούπολη;",
@@ -3363,7 +3975,9 @@
         "Στις Σέρρες"
       ],
       "correct_answer": "Στη Δράμα",
-      "id": 307
+      "id": 307,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Μποτσουάνα;",
@@ -3374,7 +3988,9 @@
         "Η Γκαμπορόνε"
       ],
       "correct_answer": "Η Γκαμπορόνε",
-      "id": 308
+      "id": 308,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πιο πυκνοκατοικημένη χώρα στον κόσμο;",
@@ -3385,7 +4001,9 @@
         "Τα νησιά Μπαρμπέιντος"
       ],
       "correct_answer": "Το Μονακό",
-      "id": 309
+      "id": 309,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από αυτές τις χώρες έχει το μεγαλύτερο αριθμό γλωσσών;",
@@ -3396,7 +4014,9 @@
         "Η Βραζιλία"
       ],
       "correct_answer": "Η Παπούα Νέα Γουινέα",
-      "id": 310
+      "id": 310,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο από τα παρακάτω δεν είναι πολιτεία του Μεξικού;",
@@ -3407,7 +4027,9 @@
         "Η Τεκίλα"
       ],
       "correct_answer": "Η Τεκίλα",
-      "id": 311
+      "id": 311,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το μεγαλύτερο κράτος στον κόσμο που δεν έχει διέξοδο προς τη θάλασσα;",
@@ -3418,18 +4040,22 @@
         "Η Πολωνία"
       ],
       "correct_answer": "Το Καζακστάν",
-      "id": 312
+      "id": 312,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Σε ποιο νησί πέθανε ο Μέγας Ναπολέων κατά τη διάρκεια της εξορίας του;",
       "choices": [
-        "Στη Αγία Ελένη",
-        "Στην  Έλβα",
+        "Στην Αγία Ελένη",
+        "Στην Έλβα",
         "Στη Μαγιόρκα",
         "Στην Κορσική"
       ],
-      "correct_answer": "Στην  Έλβα",
-      "id": 313
+      "correct_answer": "Στην Αγία Ελένη",
+      "id": 313,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο από τα παρακάτω νησιά είναι κράτος της Καραϊβικής;",
@@ -3440,7 +4066,9 @@
         "Η Γη του Πυρός"
       ],
       "correct_answer": "Η Αγία Λουκία",
-      "id": 314
+      "id": 314,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι μετά την Κίνα και την Ινδία η μεγαλύτερη σε πληθυσμό χώρα στον κόσμο;",
@@ -3451,7 +4079,9 @@
         "Οι ΗΠΑ"
       ],
       "correct_answer": "Οι ΗΠΑ",
-      "id": 315
+      "id": 315,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πως ονομάζεται το ψηλότερο βουνό της Κύπρου;",
@@ -3462,10 +4092,12 @@
         "Λυθροδόντας"
       ],
       "correct_answer": "Όλυμπος",
-      "id": 316
+      "id": 316,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Σε ποια χώρα μπορεί να δει κανείς τον Ήλιο από το ίδιο σημείο  να ανατέλλει από τον Ειρηνικό και να δύει στον Ατλαντικό ωκεανό;",
+      "question": "Σε ποια χώρα μπορεί να δει κανείς τον Ήλιο από το ίδιο σημείο να ανατέλλει από τον Ειρηνικό και να δύει στον Ατλαντικό ωκεανό;",
       "choices": [
         "Στην Αργεντινή",
         "Στην Αυστραλία",
@@ -3473,7 +4105,9 @@
         "Στην Ιαπωνία"
       ],
       "correct_answer": "Στον Παναμά",
-      "id": 317
+      "id": 317,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Σε ποια χώρα βρίσκεται η αρχαία πόλη της Πέτρας που είναι λαξευμένη πάνω σε βράχο;",
@@ -3484,7 +4118,9 @@
         "Στην Ιορδανία"
       ],
       "correct_answer": "Στην Ιορδανία",
-      "id": 318
+      "id": 318,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Από πόσα εμιράτα αποτελούνται τα Ηνωμένα Αραβικά Εμιράτα;",
@@ -3495,7 +4131,9 @@
         "Δύο"
       ],
       "correct_answer": "Επτά",
-      "id": 319
+      "id": 319,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια σημαία είναι κίτρινη και λευκή και απεικονίζει δύο σταυρωτά κλειδιά;",
@@ -3506,7 +4144,9 @@
         "Της Ανδόρας"
       ],
       "correct_answer": "Του Βατικανού",
-      "id": 320
+      "id": 320,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η σημαία ποιας χώρας είναι η μοναδική που έχει πέντε γωνίες αντί για τέσσερις;",
@@ -3517,7 +4157,9 @@
         "Του Μπουτάν"
       ],
       "correct_answer": "Του Νεπάλ",
-      "id": 321
+      "id": 321,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια ευρωπαϊκή γλώσσα είναι η επίσημη γλώσσα της Σενεγάλης;",
@@ -3528,7 +4170,9 @@
         "Τα Γαλλικά"
       ],
       "correct_answer": "Τα Γαλλικά",
-      "id": 322
+      "id": 322,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Γύρω από ποια πόλη της Καλιφόρνια βρίσκεται το Σιλικον Βάλεϊ;",
@@ -3539,7 +4183,9 @@
         "Το Λας Βέγκας"
       ],
       "correct_answer": "Το Σαν Φρανσίσκο",
-      "id": 323
+      "id": 323,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το δεύτερο ψηλότερο βουνό της Ελλάδας",
@@ -3550,7 +4196,9 @@
         "Τα Λευκά Όρη"
       ],
       "correct_answer": "Ο Σμόλικας",
-      "id": 324
+      "id": 324,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Η Ελλάδα είναι μεγαλύτερη σε έκταση από την Αγγλία.",
@@ -3559,7 +4207,9 @@
         "Λάθος"
       ],
       "correct_answer": "Σωστό",
-      "id": 325
+      "id": 325,
+      "difficulty_score": 4,
+      "difficulty_label": "medium"
     },
     {
       "question": "Από ποια γλώσσα προέρχεται η λέξη σάουνα;",
@@ -3570,7 +4220,9 @@
         "Από την ελληνική"
       ],
       "correct_answer": "Από τη φινλανδική",
-      "id": 326
+      "id": 326,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Χάρη σε ποια νησιά η Αλάσκα μπορει να θεωρηθεί η δυτικότερη και ταυτόχρονα η ανατολικότερη πολιτεία των ΗΠΑ;",
@@ -3581,7 +4233,9 @@
         "Στις Αλεούτιες νήσους"
       ],
       "correct_answer": "Στις Αλεούτιες νήσους",
-      "id": 327
+      "id": 327,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Πως ονομάζεται το καρό ύφασμα της φούστας των Σκοτζέζων;",
@@ -3592,7 +4246,9 @@
         "Νταμπλ"
       ],
       "correct_answer": "Ταρτάν",
-      "id": 328
+      "id": 328,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο δεν είναι μέρος του εορτασμού του κινέζικου νέου έτους;",
@@ -3602,7 +4258,9 @@
         "Το πέταγμα του χαρταετού"
       ],
       "correct_answer": "Το πέταγμα του χαρταετού",
-      "id": 329
+      "id": 329,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια από αυτές τις περιοχές δεν βρίσκεται στη Βόρεια Αμερική;",
@@ -3613,7 +4271,9 @@
         "Η Νέα Ιρλανδία"
       ],
       "correct_answer": "Η Νέα Ιρλανδία",
-      "id": 330
+      "id": 330,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος είναι ο μεγαλύτερος ποταμός στον κόσμο κατά μήκος;",
@@ -3624,7 +4284,9 @@
         "Ο Γάγγης"
       ],
       "correct_answer": "Ο Νείλος",
-      "id": 331
+      "id": 331,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Αυστραλίας;",
@@ -3635,7 +4297,9 @@
         "Το Περθ"
       ],
       "correct_answer": "Η Καμπέρα",
-      "id": 332
+      "id": 332,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
     },
     {
       "question": "Ποια χώρα έχει τα περισσότερα νησιά;",
@@ -3646,7 +4310,9 @@
         "Η Σουηδία"
       ],
       "correct_answer": "Η Σουηδία",
-      "id": 333
+      "id": 333,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη έρημος του κόσμου;",
@@ -3657,7 +4323,9 @@
         "Η Καλαχάρι"
       ],
       "correct_answer": "Η Ανταρκτική",
-      "id": 334
+      "id": 334,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα έχει τα περισσότερα ενεργά ηφαίστεια;",
@@ -3668,7 +4336,9 @@
         "Η Αυστραλία"
       ],
       "correct_answer": "Η Ινδονησία",
-      "id": 335
+      "id": 335,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα του Καναδά;",
@@ -3679,7 +4349,9 @@
         "Η Οττάβα"
       ],
       "correct_answer": "Η Οττάβα",
-      "id": 336
+      "id": 336,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη λίμνη στον κόσμο σε έκταση;",
@@ -3690,7 +4362,9 @@
         "Η Τανγκανίκα"
       ],
       "correct_answer": "Η Κασπία Θάλασσα",
-      "id": 337
+      "id": 337,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια είναι η πρωτεύουσα της Ελβετίας;",
@@ -3701,10 +4375,12 @@
         "Η Βέρνη"
       ],
       "correct_answer": "Η Βέρνη",
-      "id": 338
+      "id": 338,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Ποιο από τα παρακάτω  νησιά ανήκει στην Ιταλία;",
+      "question": "Ποιο από τα παρακάτω νησιά ανήκει στην Ιταλία;",
       "choices": [
         "Η Κορσική",
         "Η Σικελία",
@@ -3712,7 +4388,9 @@
         "Η Ίμπιζα"
       ],
       "correct_answer": "Η Σικελία",
-      "id": 339
+      "id": 339,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα είναι γνωστή ως \"η γη των χιλιάδων λιμνών\";",
@@ -3723,7 +4401,9 @@
         "Ο Καναδάς"
       ],
       "correct_answer": "Η Φινλανδία",
-      "id": 340
+      "id": 340,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το κέντρο της γης από γεωγραφική άποψη;",
@@ -3734,7 +4414,9 @@
         "Η Ανταρκτική"
       ],
       "correct_answer": "Ο Ισημερινός",
-      "id": 341
+      "id": 341,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιου κράτους πρωτεύουσα είναι το Αμμάν;",
@@ -3745,7 +4427,9 @@
         "Της Συρίας"
       ],
       "correct_answer": "Της Ιορδανίας",
-      "id": 342
+      "id": 342,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πού βρίσκεται το φαράγγι του Γκραν Κάνιον;",
@@ -3756,7 +4440,9 @@
         "Στο Μεξικό"
       ],
       "correct_answer": "Στις Ηνωμένες Πολιτείες",
-      "id": 343
+      "id": 343,
+      "difficulty_score": 8,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια χώρα έχει σχήμα παπουτσιού;",
@@ -3767,7 +4453,9 @@
         "Η Τουρκία"
       ],
       "correct_answer": "Η Ιταλία",
-      "id": 344
+      "id": 344,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια θάλασσα περιβάλλει τις Μαλδίβες;",
@@ -3778,7 +4466,9 @@
         "Η Αραβική θάλασσα"
       ],
       "correct_answer": "Ο Ινδικός Ωκεανός",
-      "id": 345
+      "id": 345,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο είναι το νόμισμα της Ελβετίας;",
@@ -3789,7 +4479,9 @@
         "Το ρούβλι"
       ],
       "correct_answer": "Το φράγκο",
-      "id": 346
+      "id": 346,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα έχει πρωτεύουσα την Πρετόρια αλλά και το Κέιπ Τάουν;",
@@ -3800,7 +4492,9 @@
         "Η Αιθιοπία"
       ],
       "correct_answer": "Η Νότια Αφρική",
-      "id": 347
+      "id": 347,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πού βρίσκεται το όρος Φούτζι;",
@@ -3811,7 +4505,9 @@
         "Στην Ινδονησία"
       ],
       "correct_answer": "Στην Ιαπωνία",
-      "id": 348
+      "id": 348,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιο από τα παρακάτω είναι νησί της Καραϊβικής;",
@@ -3822,7 +4518,9 @@
         "Η Σρι Λάνκα"
       ],
       "correct_answer": "Η Κούβα",
-      "id": 349
+      "id": 349,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη διασχίζει ο ποταμός Τάμεσης;",
@@ -3833,7 +4531,9 @@
         "Τη Ρώμη"
       ],
       "correct_answer": "Το Λονδίνο",
-      "id": 350
+      "id": 350,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Πού βρίσκεται το Μάτσου Πίτσου;",
@@ -3844,7 +4544,9 @@
         "Στο Μεξικό"
       ],
       "correct_answer": "Στο Περού",
-      "id": 351
+      "id": 351,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μεγαλύτερη χώρα της Ευρωπαϊκής Ένωσης σε έκταση;",
@@ -3855,7 +4557,9 @@
         "Η Γαλλία"
       ],
       "correct_answer": "Η Γαλλία",
-      "id": 352
+      "id": 352,
+      "difficulty_score": 7,
+      "difficulty_label": "hard"
     },
     {
       "question": "Ποια χώρα περιβάλλεται πλήρως από τη Νότια Αφρική;",
@@ -3866,7 +4570,9 @@
         "Η Ζιμπάμπουε"
       ],
       "correct_answer": "Το Λεσότο",
-      "id": 353
+      "id": 353,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα συνορεύει με τις περισσότερες άλλες χώρες;",
@@ -3877,7 +4583,9 @@
         "Η Γερμανία"
       ],
       "correct_answer": "Η Κίνα",
-      "id": 354
+      "id": 354,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Από ποια θάλασσα βρέχεται το Τελ Αβίβ;",
@@ -3888,7 +4596,9 @@
         "Από την Ερυθρά"
       ],
       "correct_answer": "Από τη Μεσόγειο",
-      "id": 355
+      "id": 355,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποιος ωκεανός είναι ο βαθύτερος στον κόσμο;",
@@ -3899,18 +4609,22 @@
         "Ο Αρκτικός"
       ],
       "correct_answer": "Ο Ειρηνικός",
-      "id": 356
+      "id": 356,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα περιβάλλεται πλήρως από την Ιταλία;",
       "choices": [
         "Το Μονακό",
-        "Το Βατικανό",
+        "Η Ανδόρα",
         "Το Λίχτενσταϊν",
         "Ο Άγιος Μαρίνος"
       ],
       "correct_answer": "Ο Άγιος Μαρίνος",
-      "id": 357
+      "id": 357,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μόνη ήπειρος χωρίς ενεργά ηφαίστεια;",
@@ -3921,10 +4635,12 @@
         "Η Βόρεια Αμερική"
       ],
       "correct_answer": "Η Αυστραλία",
-      "id": 358
+      "id": 358,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
-      "question": "Το όνομα ποιας  από τις παρακάτω χώρες ξεκινά από το γράμμα \"Ο\";",
+      "question": "Το όνομα ποιας από τις παρακάτω χώρες ξεκινά από το γράμμα \"Ο\";",
       "choices": [
         "Της Ονδούρας",
         "Της Ουγκάντας",
@@ -3932,7 +4648,9 @@
         "Της Ουρουγουάης"
       ],
       "correct_answer": "Του Ομάν",
-      "id": 359
+      "id": 359,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια θάλασσα είναι γνωστή για την εξαιρετικά υψηλή αλατότητα;",
@@ -3943,7 +4661,9 @@
         "Η Νεκρά Θάλασσα"
       ],
       "correct_answer": "Η Νεκρά Θάλασσα",
-      "id": 360
+      "id": 360,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα έχει τις περισσότερες χρονικές ζώνες;",
@@ -3954,7 +4674,9 @@
         "Η Κίνα"
       ],
       "correct_answer": "Η Γαλλία",
-      "id": 361
+      "id": 361,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια χώρα έχει τις περισσότερες λίμνες στον κόσμο;",
@@ -3965,7 +4687,9 @@
         "Η Κίνα"
       ],
       "correct_answer": "Ο Καναδάς",
-      "id": 362
+      "id": 362,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη βρίσκεται ταυτόχρονα σε δύο ηπείρους;",
@@ -3976,7 +4700,9 @@
         "Η Τύνιδα"
       ],
       "correct_answer": "Η Κωνσταντινούπολη",
-      "id": 363
+      "id": 363,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια πόλη είναι χτισμένη πάνω σε 118 νησιά;",
@@ -3987,7 +4713,9 @@
         "Το Τόκιο"
       ],
       "correct_answer": "Η Βενετία",
-      "id": 364
+      "id": 364,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
     },
     {
       "question": "Ποια είναι η μοναδική χώρα που συνορεύει με τρεις ωκεανούς;",
@@ -3998,7 +4726,1725 @@
         "Η Αυστραλία"
       ],
       "correct_answer": "Ο Καναδάς",
-      "id": 365
+      "id": 365,
+      "difficulty_score": 6,
+      "difficulty_label": "medium"
+    },
+    {
+      "question": "Σε ποια χώρα της Αφρικης βασίλευε η δυναστεία των Πτολεμαίων;",
+      "choices": [
+        "Στην Αίγυπτο",
+        "Στην Αλγερία",
+        "Στην Τυνησία",
+        "Στη Νότια Αφρική"
+      ],
+      "correct_answer": "Στην Αίγυπτο",
+      "id": 366,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η επίσημη γλώσσα στη Νέα Ζηλανδία;",
+      "choices": [
+        "Η Γαλλική",
+        "Η Αγγλική",
+        "Η Ολλανδική",
+        "Η Βελγική"
+      ],
+      "correct_answer": "Η Αγγλική",
+      "id": 367,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο δημητριακό έχει τη μεγαλύτερη παραγωγή στις ΗΠΑ;",
+      "choices": [
+        "Το βαμβάκι",
+        "Το σιτάρι",
+        "Το καλαμπόκι",
+        "Η βρώμη"
+      ],
+      "correct_answer": "Το καλαμπόκι",
+      "id": 368,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τα δύο πριγκιπάτα της Ευρώπης είναι το Μονακό και  -",
+      "choices": [
+        "Η Ανδόρα",
+        "Το Σαν Μαρίνο",
+        "Το Λουξεμβούργο",
+        "Το Λιχτενστάιν"
+      ],
+      "correct_answer": "Το Λιχτενστάιν",
+      "id": 369,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιας χώρας είναι ηρωίδα Ζαν Ντ’ Αρκ;",
+      "choices": [
+        "Της Γαλλίας",
+        "Της Ιταλίας",
+        "Της Ολλανδίας",
+        "Της Ισπανίας"
+      ],
+      "correct_answer": "Της Γαλλίας",
+      "id": 370,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το μεγαλύτερο αρπακτικό πτηνό που ζει στη Νότια Αμερική;",
+      "choices": [
+        "Ο μαυρόγυπας",
+        "Ο κόνδορας",
+        "Ο χρυσαέτος",
+        "Ο πετρίτης"
+      ],
+      "correct_answer": "Ο κόνδορας",
+      "id": 371,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το νόμισμα του Μεξικού;",
+      "choices": [
+        "Σολ",
+        "Μπολιβάρ",
+        "Πέσο",
+        "Κολόν"
+      ],
+      "correct_answer": "Πέσο",
+      "id": 372,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια θάλασσα βλέπεις όταν βρίσκεσαι στην πόλη Βάρνα της Βουλγαρίας;",
+      "choices": [
+        "Τη βόρεια θάλασσα",
+        "Τη μεσόγειο θάλασσα",
+        "Την αδριατική θάλασσα",
+        "Τη μαύρη θάλασσα"
+      ],
+      "correct_answer": "Τη μαύρη θάλασσα",
+      "id": 373,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια χώρα βρίσκεται στα  δυτικά σύνορα της Σουηδίας;",
+      "choices": [
+        "Η Νορβηγία",
+        "Η Φινλανδία",
+        "Η Λετονία",
+        "Η Εσθονία"
+      ],
+      "correct_answer": "Η Νορβηγία",
+      "id": 374,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται το Ελ Αλαμέιν, γνωστό απο το ΄Β Παγκόσμιο Πόλεμο;",
+      "choices": [
+        "Στην Τυνησία",
+        "Στην Αίγυπτο",
+        "Στην Αλγερία",
+        "Στο Μαρόκο"
+      ],
+      "correct_answer": "Στην Αίγυπτο",
+      "id": 375,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται ο ποταμός Ντον;",
+      "choices": [
+        "Στην Ισπανία",
+        "Στη Γερμανία",
+        "Στη Γαλλία",
+        "Στη Ρωσία"
+      ],
+      "correct_answer": "Στη Ρωσία",
+      "id": 376,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιας χώρας το ψηλότερο βουνό λέγεται Φουτζιγιάμα;",
+      "choices": [
+        "Της Κίνας",
+        "Της Ινδονησίας",
+        "Της Ιαπωνίας",
+        "Της Ινδίας"
+      ],
+      "correct_answer": "Της Ιαπωνίας",
+      "id": 377,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιας χώρας πρωτεύουσα είναι το Ισλαμαμπάντ;",
+      "choices": [
+        "Μπαγκλαντές",
+        "Αφγανιστάν",
+        "Ινδονησίας",
+        "Πακιστάν"
+      ],
+      "correct_answer": "Πακιστάν",
+      "id": 378,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το μεγαλύτερο φίδι της Νότιας Αμερικής, ίσως και το μεγαλύτερο του κόσμου;",
+      "choices": [
+        "Ανακόντα",
+        "Βόας",
+        "Πύθωνας",
+        "Οχιά"
+      ],
+      "correct_answer": "Ανακόντα",
+      "id": 379,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια αφρικανική χώρα στην αρχαιότητα είχε πρωτεύουσα τη Θήβα;",
+      "choices": [
+        "Το Σουδάν",
+        "Η Αίγυπτος",
+        "Η Αιθιοπία",
+        "Η Λιβύη"
+      ],
+      "correct_answer": "Η Αίγυπτος",
+      "id": 380,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη των ΗΠΑ βρίσκονται οι συνοικίες Μπρούκλιν, Μπρονξ και Χάρλεμ;",
+      "choices": [
+        "Στο Σικάγο",
+        "Στο Λος Άντζελες",
+        "Στη Νέα Υόρκη",
+        "Στη Φιλαδέλφεια"
+      ],
+      "correct_answer": "Στη Νέα Υόρκη",
+      "id": 381,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται το ακρωτήριο της Καλής Ελπίδας;",
+      "choices": [
+        "Στην Πορτογαλία",
+        "Στη Βραζιλία",
+        "Στην Αυστραλία",
+        "Στη Νότια Αφρική"
+      ],
+      "correct_answer": "Στη Νότια Αφρική",
+      "id": 382,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια σημερινή χώρα ζούσαν οι Ιλλυριοί στην αρχαιότητα;",
+      "choices": [
+        "Στην Αλβανία",
+        "Στη Σερβία",
+        "Στη Βουλγαρία",
+        "Στην Ελλάδα"
+      ],
+      "correct_answer": "Στην Αλβανία",
+      "id": 383,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια χώρα έρχεται πρώτη στον κόσμο στην εκτροφή προβάτων;",
+      "choices": [
+        "Η Ινδία",
+        "Η Αυστραλία",
+        "Η Κίνα",
+        "Η Νέα Ζηλανδία"
+      ],
+      "correct_answer": "Η Αυστραλία",
+      "id": 384,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο δέντρο της Αυστραλίας φτάνει σε ύψος μέχρι τα 100 μέτρα και από τα φύλλα του βγαίνει θεραπευτικό λάδι;",
+      "choices": [
+        "Η ακακία",
+        "Το μπαομπάμπ",
+        "Ο ευκάλυπτος",
+        "Η βελανιδιά"
+      ],
+      "correct_answer": "Ο ευκάλυπτος",
+      "id": 385,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια μεσογειακή χώρα βρίσκεται η Τεργέστη;",
+      "choices": [
+        "Στην Κροατία",
+        "Στην Ισπανία",
+        "Στη Σλοβενία",
+        "Στην Ιταλία"
+      ],
+      "correct_answer": "Στην Ιταλία",
+      "id": 386,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πως λέγεται αυτός που προέρχεται από δύο διαφορετικές φυλές ή εθνότητες;",
+      "choices": [
+        "Διγενής",
+        "Ιθαγενής",
+        "Ομογενής",
+        "Αλλοδαπός"
+      ],
+      "correct_answer": "Διγενής",
+      "id": 387,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πως λέγονται οι κάτοικοι του Μονακό;",
+      "choices": [
+        "Μονακοί",
+        "Μονεγάσκοι",
+        "Μονεγάλοι",
+        "Μανακοί"
+      ],
+      "correct_answer": "Μονεγάσκοι",
+      "id": 388,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο νομό βρίσκονται τα μετέωρα;",
+      "choices": [
+        "Λάρισας",
+        "Τρικάλων",
+        "Ημαθίας",
+        "Γρεβενών"
+      ],
+      "correct_answer": "Τρικάλων",
+      "id": 389,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Το Μόντε Κάρλο είναι πόλη  -",
+      "choices": [
+        "Της Γαλλίας",
+        "Της Ισπανίας",
+        "Του Μονακό",
+        "Της Πορτογαλίας"
+      ],
+      "correct_answer": "Του Μονακό",
+      "id": 390,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πιο πυκνοκατοικημένη ήπειρος;",
+      "choices": [
+        "Η Ευρώπη",
+        "Η Αμερική",
+        "Η Αφρική",
+        "Η Ασία"
+      ],
+      "correct_answer": "Η Ασία",
+      "id": 391,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια από τις παρακάτω πόλεις βρίσκεται βορειότερα;",
+      "choices": [
+        "Ορεστιάδα",
+        "Πάτρα",
+        "Σέρρες",
+        "Θεσσαλονίκη"
+      ],
+      "correct_answer": "Ορεστιάδα",
+      "id": 392,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια πόλη χαρακτηρίζεται ως «Μεγάλο Μήλο»;",
+      "choices": [
+        "Το Παρίσι",
+        "Η Νέα Υόρκη",
+        "Το Λονδίνο",
+        "Η Ρώμη"
+      ],
+      "correct_answer": "Η Νέα Υόρκη",
+      "id": 393,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται το μουσείο της μαντάμ Τισό;",
+      "choices": [
+        "Στο Λονδίνο",
+        "Στο Λίβερπουλ",
+        "Στο Λέστερ",
+        "Στο Εδιμβούργο"
+      ],
+      "correct_answer": "Στο Λονδίνο",
+      "id": 394,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια ελληνική περιοχή έχει τη μεγαλύτερη παραγωγή ροδάκινου;",
+      "choices": [
+        "Η Ήπειρος",
+        "Η Μακεδονία",
+        "Η Θεσσαλία",
+        "Η Πελοπόννησος"
+      ],
+      "correct_answer": "Η Μακεδονία",
+      "id": 395,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη βρίσκεται το θέατρο όπερας «Σκάλα»;",
+      "choices": [
+        "Στο Λονδίνο",
+        "Στο Παρίσι",
+        "Στη Ρώμη",
+        "Στο Μιλάνο"
+      ],
+      "correct_answer": "Στο Μιλάνο",
+      "id": 396,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια από τις παρακάτω πόλεις έχει το μεγαλύτερο πληθυσμό;",
+      "choices": [
+        "Η Σαγκάη",
+        "Η Μόσχα",
+        "Η Νέα Υόρκη",
+        "Το Λονδίνο"
+      ],
+      "correct_answer": "Η Σαγκάη",
+      "id": 397,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι είναι το Γκραντ Κάνιον;",
+      "choices": [
+        "Ποτάμι",
+        "Φαράγγι",
+        "Λίμνη",
+        "Βουνό"
+      ],
+      "correct_answer": "Φαράγγι",
+      "id": 398,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται η Αίτνα και ο Βεζούβιος;",
+      "choices": [
+        "Ελβετία",
+        "Γαλλία",
+        "Ιταλία",
+        "Ισπανία"
+      ],
+      "correct_answer": "Ιταλία",
+      "id": 399,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Με ποια ονομασία είναι γνωστό το οροπέδιο του Θιβέτ;",
+      "choices": [
+        "Το σπίτι του θεού",
+        "Η παγόδα του Βούδα",
+        "Τα Ηλύσια πεδία",
+        "Η στέγη του κόσμου"
+      ],
+      "correct_answer": "Η στέγη του κόσμου",
+      "id": 400,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "που βρίσκεται το μεγαλύτερο μουσείο του κόσμου;",
+      "choices": [
+        "Στο Παρίσι",
+        "Στη Νέα Υόρκη",
+        "Στο Λονδίνο",
+        "Στη Ρώμη"
+      ],
+      "correct_answer": "Στο Παρίσι",
+      "id": 401,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια ήπειρος έχει τις περισσότερες χώρες;",
+      "choices": [
+        "Η Ασία",
+        "Η Αφρική",
+        "Η Αμερική",
+        "Η Ωκεανία"
+      ],
+      "correct_answer": "Η Αφρική",
+      "id": 402,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα ζουν οι Βάσκοι;",
+      "choices": [
+        "Ιταλία",
+        "Αυστρία",
+        "Ισπανία",
+        "Ελβετία"
+      ],
+      "correct_answer": "Ισπανία",
+      "id": 403,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η μικρότερη ήπειρος του κόσμου;",
+      "choices": [
+        "Η Ευρώπη",
+        "Η Ασία",
+        "Η Αφρική",
+        "Η Ωκεανία"
+      ],
+      "correct_answer": "Η Ωκεανία",
+      "id": 404,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια χώρα της Ευρ[ωπης έχει τη μεγαλύτερη κατανάλωση μπύρας;",
+      "choices": [
+        "Η Γερμανία",
+        "Η Ιρλανδία",
+        "Η Αγγλία",
+        "Η Ιταλία"
+      ],
+      "correct_answer": "Η Γερμανία",
+      "id": 405,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο χώρα βρίσκεται η Κρακοβία;",
+      "choices": [
+        "Εσθονία",
+        "Πολωνία",
+        "Λιθουανία",
+        "Φινλανδία"
+      ],
+      "correct_answer": "Πολωνία",
+      "id": 406,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται το Αμβούργο;",
+      "choices": [
+        "Στην Αυστρία",
+        "Στην Ελβετία",
+        "Στη Γερμανία",
+        "Στην Τσεχία"
+      ],
+      "correct_answer": "Στη Γερμανία",
+      "id": 407,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται ο Ψηλορείτης;",
+      "choices": [
+        "Στην Κάρπαθο",
+        "Στη Θάσο",
+        "Στη Μακεδονία",
+        "Στην Κρήτη"
+      ],
+      "correct_answer": "Στην Κρήτη",
+      "id": 408,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιος αρχαιολογικός χώρος συγκεντρώνει τους περισσότερους τουρίστες στην Ελλάδα;",
+      "choices": [
+        "Ο Παρθενώνας",
+        "Το Μαντείο των Δελφών",
+        "Τα ανάκτορα της Κνωσού",
+        "Η αρχαία Ολυμπία"
+      ],
+      "correct_answer": "Ο Παρθενώνας",
+      "id": 409,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια χώρα καταγράφει κάθε χρόνο τους περισσότερους σεισμούς;",
+      "choices": [
+        "Η Ελλάδα",
+        "Η Ιαπωνία",
+        "Η Τουρκία",
+        "Η κίνα"
+      ],
+      "correct_answer": "Η Ιαπωνία",
+      "id": 410,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα μπορεί κανείς να απολαύσει τους ήχους της μουσικής των Μαριάτσι;",
+      "choices": [
+        "Στην Ισπανία",
+        "Στη Βολιβία",
+        "Στο Μεξικό",
+        "Στη Βενεζουέλα"
+      ],
+      "correct_answer": "Στο Μεξικό",
+      "id": 411,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη της Τουρκίας βρίσκεται η Αγία Σοφία;",
+      "choices": [
+        "Σμύρνη",
+        "Έφεσο",
+        "Άγκυρα",
+        "Κωνσταντινούπολη"
+      ],
+      "correct_answer": "Κωνσταντινούπολη",
+      "id": 412,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιος από τους παρακάτω νομούς δε βρίσκεται στη Στερεά Ελλάδα;",
+      "choices": [
+        "Αρκαδίας",
+        "Φωκίδας",
+        "Φθιώτιδας",
+        "Βοιωτίας"
+      ],
+      "correct_answer": "Αρκαδίας",
+      "id": 413,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πως λέγονται τα παραδοσιακά ξύλινα σπίτια των Ελβετικών Άλπεων;",
+      "choices": [
+        "Εξοχικά",
+        "Σαλέ",
+        "Βίλες",
+        "Καταφύγια"
+      ],
+      "correct_answer": "Σαλέ",
+      "id": 414,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Για ποιο προϊόν φημίζεται η Καλαμάτα;",
+      "choices": [
+        "Για το τυρί",
+        "Για το κρασί",
+        "Για το λάδι",
+        "Για τα σύκα"
+      ],
+      "correct_answer": "Για το λάδι",
+      "id": 415,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται το φοινικόδασος Βάι;",
+      "choices": [
+        "Στην Κέρκυρα",
+        "Στη Θάσο",
+        "Στη Ζάκυνθο",
+        "Στην Κρήτη"
+      ],
+      "correct_answer": "Στην Κρήτη",
+      "id": 416,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η παραλία Σούπερ Παραντάις βρίσκεται -",
+      "choices": [
+        "Στη Μύκονο",
+        "Στην Πάρο",
+        "Στην Ίο",
+        "Στη Σαντορίνη"
+      ],
+      "correct_answer": "Στη Μύκονο",
+      "id": 417,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιος είναι ο πρώτος αλφαβητικά νομός της Ελλάδας;",
+      "choices": [
+        "Αρκαδίας",
+        "Αιτωλοακαρνανίας",
+        "Άρτας",
+        "Αττικής"
+      ],
+      "correct_answer": "Αιτωλοακαρνανίας",
+      "id": 418,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η τσικουδιά είναι ποτό από -",
+      "choices": [
+        "Τη Θάσο",
+        "Τη Χαλκιδική",
+        "Την Κρήτη",
+        "Την Κύπρο"
+      ],
+      "correct_answer": "Την Κρήτη",
+      "id": 419,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι είδους καπέλο φοράνε οι Μεξικανοί;",
+      "choices": [
+        "Πλατύγυρο",
+        "Ημίψηλο",
+        "Καβουράκι",
+        "Σομπρέρο"
+      ],
+      "correct_answer": "Σομπρέρο",
+      "id": 420,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο μεσογειακό νησί βρίσκεται το Παλέρμο;",
+      "choices": [
+        "Σικελία",
+        "Σαρδηνία",
+        "Κορσική",
+        "Κύπρο"
+      ],
+      "correct_answer": "Σικελία",
+      "id": 421,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη βρίσκονται τα περίφημα Λαδάδικα;",
+      "choices": [
+        "Στα Χανιά",
+        "Στη Θεσσαλονίκη",
+        "Στην Αθήνα",
+        "Στην Πάτρα"
+      ],
+      "correct_answer": "Στη Θεσσαλονίκη",
+      "id": 422,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Κοντά σε ποια μεγάλη πόλη βρίσκεται το βουνό Παναχαϊκό;",
+      "choices": [
+        "Θεσσαλονίκη",
+        "Καστοριά",
+        "Πάτρα",
+        "Αθήνα"
+      ],
+      "correct_answer": "Πάτρα",
+      "id": 423,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια ελληνική πόλη βρίσκεται η αψίδα του Γαλέριου;",
+      "choices": [
+        "Κομοτηνή",
+        "Ναύπλιο",
+        "Πρέβεζα",
+        "Θεσσαλονίκη"
+      ],
+      "correct_answer": "Θεσσαλονίκη",
+      "id": 424,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη βρίσκεται η γέφυρα των στεναγμών;",
+      "choices": [
+        "Στη Βενετία",
+        "Στη Φλωρεντία",
+        "Στη Βαγδάτη",
+        "Στην Κωνσταντινούπολη"
+      ],
+      "correct_answer": "Στη Βενετία",
+      "id": 425,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο θεωρείται ιερό ζώο στην Ινδία;",
+      "choices": [
+        "Το πρόβατο",
+        "Η αγελάδα",
+        "Η γάτα",
+        "Το γαϊδούρι"
+      ],
+      "correct_answer": "Η αγελάδα",
+      "id": 426,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Με ποια από τις παρακάτω χώρες συνορεύει η Γαλλία;",
+      "choices": [
+        "Ελλάδα",
+        "Τουρκία",
+        "Ισπανία",
+        "Λιθουανία"
+      ],
+      "correct_answer": "Ισπανία",
+      "id": 427,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιος λαός θεωρεί τον ποταμό Γάγγη ιερό;",
+      "choices": [
+        "Οι Κινέζοι",
+        "Οι Ιορδανοί",
+        "Οι Ιρανοί",
+        "Οι Ινδοί"
+      ],
+      "correct_answer": "Οι Ινδοί",
+      "id": 428,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο ελληνικό νησί βγαίνει το μαστιχόδεντρο;",
+      "choices": [
+        "Στη Χίο",
+        "Στη Μυτιλήνη",
+        "Στη Λέρο",
+        "Στη Σάμο"
+      ],
+      "correct_answer": "Στη Χίο",
+      "id": 429,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο νησί βρίσκεται το Αχίλλειον, παλατι της πριγκίπισσας Σίσι της Αυστρίας;",
+      "choices": [
+        "Σπέτσες",
+        "Κέρκυρα",
+        "Ρόδο",
+        "Κρητη"
+      ],
+      "correct_answer": "Κέρκυρα",
+      "id": 430,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο βουνό βρίσκεται το γνωστό γραφικό χωριό της Τσαγκαράδας;",
+      "choices": [
+        "Στον Όλυμπο",
+        "Στο Παρνασσό",
+        "Στο Πήλιο",
+        "Στο Βέρμιο"
+      ],
+      "correct_answer": "Στο Πήλιο",
+      "id": 431,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται το Σάο Πάολο;",
+      "choices": [
+        "Στην Κολομβία",
+        "Στη Βενεζουέλα",
+        "Στο Περού",
+        "Στη Βραζιλία"
+      ],
+      "correct_answer": "Στη Βραζιλία",
+      "id": 432,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκονται οι ουρανοξύστες Ροκφέλερ και Κράισλερ;",
+      "choices": [
+        "Στο Σικάγο",
+        "Στη Μασαχουσέτη",
+        "Στη Νέα Υόρκη",
+        "Στην Ουάσιγκτον"
+      ],
+      "correct_answer": "Στη Νέα Υόρκη",
+      "id": 433,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια οροσειρά είναι η σπονδυλική στήλη της Ελλάδας;",
+      "choices": [
+        "Τα Λευκά Όρη",
+        "Η Ροδόπη",
+        "Τα Αροάνια ‘Όρη",
+        "Η Πίνδος"
+      ],
+      "correct_answer": "Η Πίνδος",
+      "id": 434,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο κράτος ανήκουν οι Βαλεαρίδες Νήσοι;",
+      "choices": [
+        "Ισπανία",
+        "Ιταλία",
+        "Αυστραλία",
+        "Γαλλική Πολυνησία"
+      ],
+      "correct_answer": "Ισπανία",
+      "id": 435,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το δεύτερο μεγαλύτερο νησί των Κυκλάδων;",
+      "choices": [
+        "Η Φολέγανδρος",
+        "Η Πάρος",
+        "Η Ίος",
+        "Η Σίκινος"
+      ],
+      "correct_answer": "Η Πάρος",
+      "id": 436,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια ήπειρος έχει τα χαμηλότερα βουνά;",
+      "choices": [
+        "Η Αφρική",
+        "Η Αμερική",
+        "Η Ωκεανία",
+        "Η Ευρώπη"
+      ],
+      "correct_answer": "Η Ωκεανία",
+      "id": 437,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη βρίσκεται η πλατεία του Αγίου Μάρκου;",
+      "choices": [
+        "Στη Βιέννη",
+        "Στη Μασσαλία",
+        "Στη Βαρσοβία",
+        "Στη Βενετία"
+      ],
+      "correct_answer": "Στη Βενετία",
+      "id": 438,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πώς λεγόταν ο δρόμος που ένωνε τη Σαγκάη με τη Μεσόγειο;",
+      "choices": [
+        "Δρόμος του μεταξιού",
+        "Δρόμος του κρασιού",
+        "Δρόμος του μαλλιού",
+        "Δρόμος του διαμαντιού"
+      ],
+      "correct_answer": "Δρόμος του μεταξιού",
+      "id": 439,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα δεν απλώνονται τα Καρπάθια Όρη;",
+      "choices": [
+        "Στην Ουκρανία",
+        "Στη Γερμανία",
+        "Στην Πολωνία",
+        "Στη Ρουμανία"
+      ],
+      "correct_answer": "Στη Γερμανία",
+      "id": 440,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται το Μπλε Τζαμί;",
+      "choices": [
+        "Στο Κάιρο",
+        "Στη Βαγδάτη",
+        "Στην Κωνσταντινούπολη",
+        "Στο Λονδίνο"
+      ],
+      "correct_answer": "Στην Κωνσταντινούπολη",
+      "id": 441,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται το φρούριο της Μεθώνης;",
+      "choices": [
+        "Στερεά Ελλάδα",
+        "Μακεδονία",
+        "Θράκη",
+        "Πελοπόννησο"
+      ],
+      "correct_answer": "Πελοπόννησο",
+      "id": 442,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ο χαλβάς ποιας πόλης της Θεσσαλίας είναι ονομαστός;",
+      "choices": [
+        "Φαρσάλων",
+        "Τρικάλων",
+        "Ελασσόνας",
+        "Τυρνάβου"
+      ],
+      "correct_answer": "Φαρσάλων",
+      "id": 443,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι προέλευσης είναι το φοντί, σπεσιαλιτέ από με΄γμα διάφορων τυριών;",
+      "choices": [
+        "Σουηδικής",
+        "Ελβετικής",
+        "Δανικής",
+        "Γαλλικής"
+      ],
+      "correct_answer": "Ελβετικής",
+      "id": 444,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Στο Σούνιο σώζεται ως και σήμερα το ιερό  -",
+      "choices": [
+        "Της Ήρας",
+        "Του Δία",
+        "Του Ποσειδώνα",
+        "Του Διόνυσου"
+      ],
+      "correct_answer": "Του Ποσειδώνα",
+      "id": 445,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο νομό βρίσκονται τα Ζαγοροχώρια;",
+      "choices": [
+        "Θεσπρωτίας",
+        "Γρεβενών",
+        "Άρτας",
+        "Ιωαννίνων"
+      ],
+      "correct_answer": "Ιωαννίνων",
+      "id": 446,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Από ποιο χωριό ξεκινά κανείς συνήθως για να ανεβεί στον Όλυμπο;",
+      "choices": [
+        "Από το Λιτόχωρο",
+        "Από τη Λεπτοκαρυά",
+        "Από το Δίον",
+        "Από τον Άγιο Παντελεήμονα"
+      ],
+      "correct_answer": "Από το Λιτόχωρο",
+      "id": 447,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο φαράγγι ξεκινά από τον Ομαλό και καταλήγει στην Αγία Ρούμελη;",
+      "choices": [
+        "Του Βίκου",
+        "Της Σαμαριάς",
+        "Του Αχέροντα",
+        "Του Λούσιου"
+      ],
+      "correct_answer": "Της Σαμαριάς",
+      "id": 448,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πατρίδα του ποτού σαγκριά;",
+      "choices": [
+        "Ιταλία",
+        "Ελλάδα",
+        "Ισπανία",
+        "Κροατία"
+      ],
+      "correct_answer": "Ισπανία",
+      "id": 449,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο μαντείο της Ηπείρου ήταν ένα από τα σπουδαιότερα στην αρχαιότητα;",
+      "choices": [
+        "Των Δελφών",
+        "Της Φαιστού",
+        "Του Αμμωνίου Δία",
+        "Της Δωδώνης"
+      ],
+      "correct_answer": "Της Δωδώνης",
+      "id": 450,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι περιέχει ο αυθεντικός Ιρλανδέζικος καφές;",
+      "choices": [
+        "Ουίσκι",
+        "Ρούμι",
+        "Λικέρ",
+        "Μπύρα"
+      ],
+      "correct_answer": "Ουίσκι",
+      "id": 451,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια περιοχή της Ελλάδας ακολουθείται η βυζαντινή ώρα;",
+      "choices": [
+        "Στα Μετέωρα",
+        "Στο Άγιο Όρος",
+        "Στη Μονή Μεγίστης Λαύρας",
+        "Στη Αρχιεπισκοπή Αθηνών"
+      ],
+      "correct_answer": "Στο Άγιο Όρος",
+      "id": 452,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πως λεγόταν η περιοχή του Ιράκ πριν γίνει ανεξάρτητο κράτος;",
+      "choices": [
+        "Καρχηδόνα",
+        "Γαλατία",
+        "Μεσοποταμία",
+        "Σουμερία"
+      ],
+      "correct_answer": "Μεσοποταμία",
+      "id": 453,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιος είναι ο μικρότερος σε έκταση νομός της Ελλάδας;",
+      "choices": [
+        "Λευκάδας",
+        "Ηρακλείου",
+        "Γρεβενών",
+        "Τρικάλων"
+      ],
+      "correct_answer": "Λευκάδας",
+      "id": 454,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το μεγαλύτερο σε έκταση Βαλκανικό κράτος;",
+      "choices": [
+        "Η Βουλγαρία",
+        "Η Ρουμανία",
+        "Η Ελλάδα",
+        "Η Σερβία"
+      ],
+      "correct_answer": "Η Ρουμανία",
+      "id": 455,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Το Καρπενήσι είναι πρωτεύουσα του νομού -",
+      "choices": [
+        "Θεσπρωτίας",
+        "Φθιώτιδας",
+        "Ευρυτανίας",
+        "Βοιωτίας"
+      ],
+      "correct_answer": "Ευρυτανίας",
+      "id": 456,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια ήπειρο ζουν οι Παπούα;",
+      "choices": [
+        "Αμερική",
+        "Αφρική",
+        "Ασία",
+        "Ωκεανία"
+      ],
+      "correct_answer": "Ωκεανία",
+      "id": 457,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο ελληνικο νησί ζουν οι περισσότεροι καθολικοί;",
+      "choices": [
+        "Στη Σύρο",
+        "Στη Σίφνο",
+        "Στη Νάξο",
+        "Στην Τήνο"
+      ],
+      "correct_answer": "Στη Σύρο",
+      "id": 458,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα της Συρίας;",
+      "choices": [
+        "Το Ανόι",
+        "Η Δαμασκός",
+        "Η Βηρυτός",
+        "Η Βαγδάτη"
+      ],
+      "correct_answer": "Η Δαμασκός",
+      "id": 459,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πόσες πόλεις με το όνομα Τρίκαλα υπάρχουν στην Ελλάδα;",
+      "choices": [
+        "Τρεις",
+        "Μία",
+        "Δύο",
+        "Τέσσερις"
+      ],
+      "correct_answer": "Δύο",
+      "id": 460,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται το Τσέρνομπιλ;",
+      "choices": [
+        "Στη Ρουμανία",
+        "Στη Βουλγαρία",
+        "Στη Ρωσία",
+        "Στην Ουκρανία"
+      ],
+      "correct_answer": "Στην Ουκρανία",
+      "id": 461,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται το βαθύτερο σημείο της Μεσογείου;",
+      "choices": [
+        "Στην Ιταλία",
+        "Στην Ελλάδα",
+        "Στην Ισπανία",
+        "Στη Γαλλία"
+      ],
+      "correct_answer": "Στην Ελλάδα",
+      "id": 462,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια γνωστή μας πόλη είναι η Φαμαγκούστα;",
+      "choices": [
+        "Η Ερμούπολη",
+        "Η Ορεστιάδα",
+        "Η Αμμόχωστος",
+        "Η Κωνσταντινούπολη"
+      ],
+      "correct_answer": "Η Αμμόχωστος",
+      "id": 463,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιες χώρες βρίσκονται στην Ιβηρική χερσόνησο;",
+      "choices": [
+        "Γαλλία και Ελβετία",
+        "Νορβηγία και Φινλανδία",
+        "Δανία και Βέλγιο",
+        "Ισπανία και Πορτογαλία"
+      ],
+      "correct_answer": "Ισπανία και Πορτογαλία",
+      "id": 464,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη εκτός Ελλάδας βρίσκεται ο ναός της Αναστάσεως;",
+      "choices": [
+        "Στα Ιεροσόλυμα",
+        "Στη Βηθλεέμ",
+        "Στη Μόσχα",
+        "Στη Βηρυτό"
+      ],
+      "correct_answer": "Στα Ιεροσόλυμα",
+      "id": 465,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα βρίσκεται η πόλη Δυρράχιο;",
+      "choices": [
+        "Στην Ελλάδα",
+        "Στην Αλβανία",
+        "Στην Τσεχία",
+        "Στη Ρουμανία"
+      ],
+      "correct_answer": "Στην Αλβανία",
+      "id": 466,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η λίμνη Κόμο βρίσκεται στην -",
+      "choices": [
+        "Κένυα",
+        "Αυστραλία",
+        "Ιταλία",
+        "Ιαπωνία"
+      ],
+      "correct_answer": "Ιταλία",
+      "id": 467,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια από τις παρακάτω χώρες δε συνορεύει με τη Ρωσία;",
+      "choices": [
+        "Η Φινλανδία",
+        "Η Λευκορωσία",
+        "Η Ουκρανία",
+        "Η Ρουμανία"
+      ],
+      "correct_answer": "Η Ρουμανία",
+      "id": 468,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η Πολωνία βρέχεται από τη -",
+      "choices": [
+        "Βαλτική θάλασσα",
+        "Μαύρη θάλασσα",
+        "Βόρεια θάλασσα",
+        "Αδριατική θάλασσα"
+      ],
+      "correct_answer": "Βαλτική θάλασσα",
+      "id": 469,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο Ελληνικό νησί ήταν το Φιόρε ντι Λεβάντε",
+      "choices": [
+        "Η Ρόδος",
+        "Η Ζάκυνθος",
+        "Η Κέρκυρα",
+        "Η Σάμος"
+      ],
+      "correct_answer": "Η Ζάκυνθος",
+      "id": 470,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Για ποιο ποτό είναι γνωστός ο Τύρναβος;",
+      "choices": [
+        "Μπύρα",
+        "Κρασι",
+        "Τσίπουρο",
+        "Ουίσκι"
+      ],
+      "correct_answer": "Τσίπουρο",
+      "id": 471,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Από ποια χώρα προέρχεται το φυτό μπονζάι;",
+      "choices": [
+        "Ινδονησία",
+        "Φιλιππίνες",
+        "Κίνα",
+        "Ιαπωνία"
+      ],
+      "correct_answer": "Ιαπωνία",
+      "id": 472,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Το Χάιντ Παρκ βρίσκεται στο -",
+      "choices": [
+        "Λονδίνο",
+        "Παρίσι",
+        "Λος Άντζελες",
+        "Βερολίνο"
+      ],
+      "correct_answer": "Λονδίνο",
+      "id": 473,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα της Γεωργίας;",
+      "choices": [
+        "Τεχεράνη",
+        "Τιφλίδα",
+        "Κίεβο",
+        "Τεργέστη"
+      ],
+      "correct_answer": "Τιφλίδα",
+      "id": 474,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πως αλλιώς λέγεται η τεχνητή λίμνη Ταυρωπού στην Καρδίτσα;",
+      "choices": [
+        "Πολυφύτου",
+        "Βόλβη",
+        "Πλαστήρα",
+        "Βεγορίτιδα"
+      ],
+      "correct_answer": "Πλαστήρα",
+      "id": 475,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε πόσα γεωγραφικά διαμερίσματα χωρίζεται η Ελλάδα;",
+      "choices": [
+        "6",
+        "7",
+        "5",
+        "9"
+      ],
+      "correct_answer": "9",
+      "id": 476,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Οι κήποι του Λουξεμβούργου βρίσκονται -",
+      "choices": [
+        "Στο Παρίσι",
+        "Στο Λουξεμβούργο",
+        "Στη Βιέννη",
+        "Στο Όσλο"
+      ],
+      "correct_answer": "Στο Παρίσι",
+      "id": 477,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια πόλη βρίσκονται τα θερινά ανάκτορα Σενμπρούν;",
+      "choices": [
+        "Στο Γκρατς",
+        "Στη Βιέννη",
+        "Στο Ίνσμπρουκ",
+        "Στο Σάλτσμπουργκ"
+      ],
+      "correct_answer": "Στη Βιέννη",
+      "id": 478,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι είναι η Μπουρκίνα Φάσο;",
+      "choices": [
+        "Βουνό της Αφρικής",
+        "Φαγητό της Αφρικής",
+        "Κράτος της Αφρικής",
+        "Λίμνη της Αφρικής"
+      ],
+      "correct_answer": "Κράτος της Αφρικής",
+      "id": 479,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποιο σύμπλεγμα νησιών ανήκει η Ίμπιζα;",
+      "choices": [
+        "Στις Κανάριες νήσους",
+        "Στις νήσους Αζόρες",
+        "Στις νήσους Σέτλαντ",
+        "Στις Βαλεαρίδες νήσους"
+      ],
+      "correct_answer": "Στις Βαλεαρίδες νήσους",
+      "id": 480,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιας χώρας σπεσιαλιτέ είναι το γκούλας;",
+      "choices": [
+        "Ουγγαρίας",
+        "Ολλανδίας",
+        "Ελβετίας",
+        "Γερμανίας"
+      ],
+      "correct_answer": "Ουγγαρίας",
+      "id": 481,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η φημισμένη αγορά Αλ Χαλίλ βρίσκεται -",
+      "choices": [
+        "Στην Τυνησία",
+        "Στην Αίγυπτο",
+        "Στην Μαρόκο",
+        "Στην Αλγερία"
+      ],
+      "correct_answer": "Στην Αίγυπτο",
+      "id": 482,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Πού βρίσκονται τα ανάκτορα του Ντολμά Μπαξέ",
+      "choices": [
+        "Στην Προύσα",
+        "Στην Άγκυρα",
+        "Στην Κωνσταντινούπολη",
+        "Στη Σμύρνη"
+      ],
+      "correct_answer": "Στην Κωνσταντινούπολη",
+      "id": 483,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Σε ποια χώρα οι ιθαγενείς ονομάζονται Μαορί;",
+      "choices": [
+        "Στο Κονγκό",
+        "Στη Ζιμπάμπουε",
+        "Στη Γκάνα",
+        "Στη Νέα Ζηλανδία"
+      ],
+      "correct_answer": "Στη Νέα Ζηλανδία",
+      "id": 484,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποιο είναι το σύμβολο του Αγίου Πατρικίου και της Ιρλανδίας;",
+      "choices": [
+        "Το τριφύλλι",
+        "Ο βασιλικός",
+        "Το τριαντάφυλλο",
+        "Το γαρύφαλλο"
+      ],
+      "correct_answer": "Το τριφύλλι",
+      "id": 485,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Η Ουκρανία βρέχεται από -",
+      "choices": [
+        "Την Κασπία θάλασσα",
+        "Τη Μαύρη θάλασσα",
+        "Την Αδριατική θάλασσα",
+        "Τη Μεσόγειο θάλασσα"
+      ],
+      "correct_answer": "Τη Μαύρη θάλασσα",
+      "id": 486,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Που βρίσκεται η μεγαλύτερη πλατεία της Ελλάδας;",
+      "choices": [
+        "Αθήνα",
+        "Θεσσαλονίκη",
+        "Κέρκυρα",
+        "Πάτρα"
+      ],
+      "correct_answer": "Κέρκυρα",
+      "id": 487,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Τι είναι το μάτι της Αφρικής;",
+      "choices": [
+        "Όαση",
+        "Λίμνη",
+        "Λιμάνι",
+        "Γεωλογικός σχηματισμός"
+      ],
+      "correct_answer": "Γεωλογικός σχηματισμός",
+      "id": 488,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια ήπειρος δεν έχει χώρες;",
+      "choices": [
+        "Ανταρκτική",
+        "Αφρική",
+        "Ευρώπη",
+        "Ωκεανία"
+      ],
+      "correct_answer": "Ανταρκτική",
+      "id": 502,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η μεγαλύτερη πόλη της Δυτικής Μακεδονίας;",
+      "choices": [
+        "Καστοριά",
+        "Κοζάνη",
+        "Φλώρινα",
+        "Γρεβενά"
+      ],
+      "correct_answer": "Κοζάνη",
+      "id": 491,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα του Βελγίου;",
+      "choices": [
+        "Άμστερνταμ",
+        "Λουξεμβούργο",
+        "Βρυξέλλες",
+        "Στοκχόλμη"
+      ],
+      "correct_answer": "Βρυξέλλες",
+      "id": 495,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα της Ιταλίας;",
+      "choices": [
+        "Βενετία",
+        "Ρώμη",
+        "Νάπολη",
+        "Μιλάνο"
+      ],
+      "correct_answer": "Ρώμη",
+      "id": 496,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα του Ισραήλ;",
+      "choices": [
+        "Τελ Αβίβ",
+        "Καμπούλ",
+        "Ιερουσαλήμ",
+        "Ισλαμαμπάντ"
+      ],
+      "correct_answer": "Ιερουσαλήμ",
+      "id": 497,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα της Γερμανίας;",
+      "choices": [
+        "Φρανκφούρτη",
+        "Βερολίνο",
+        "Μόναχο",
+        "Αμβούργο"
+      ],
+      "correct_answer": "Βερολίνο",
+      "id": 498,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα της Νορβηγίας;",
+      "choices": [
+        "Στοκχόλμη",
+        "Ελσίνκι",
+        "Όσλο",
+        "Κοπεγχάγη"
+      ],
+      "correct_answer": "Όσλο",
+      "id": 499,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια είναι η πρωτεύουσα και η μεγαλύτερη πόλη της Χαβάης, της 50ής Πολιτείας των ΗΠΑ;",
+      "choices": [
+        "Λιτλ Ροκ",
+        "Ντόβερ",
+        "Φρανκφορτ",
+        "Χονολουλού"
+      ],
+      "correct_answer": "Χονολουλού",
+      "id": 500,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
+    },
+    {
+      "question": "Ποια  από αυτές τις πόλεις ήταν η πρωτεύουσα της Ιαπωνίας στο παρελθόν;",
+      "choices": [
+        "Κιότο",
+        "Γιοκοχάμα",
+        "Χιροσίμα",
+        "Οσάκα"
+      ],
+      "correct_answer": "Κιότο",
+      "id": 501,
+      "difficulty_score": 1,
+      "difficulty_label": "easy"
     }
   ]
 }
