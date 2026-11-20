@@ -185,8 +185,12 @@ string|game_stats|zqPPhM6xz4TOuc+Dz4TOuc66zqwgzqDOsc65z4fOvc65zrTOuc6/z40=
 string|game_wrong_answers|zpvOrM64zr/PgiDOkc+AzrHOvc+Ezq7Pg861zrnPgg==
 string|geography|zpPOtc+JzrPPgc6xz4bOr86x
 string|history|zpnPg8+Ezr/Pgc6vzrE=
+string|leaderboard_empty_cta|zqDOrM68zrUgzr3OsSDPgM6xzq/Ovs6/z4XOvM61
+string|leaderboard_empty_host|zp8gz4DOr869zrHOus6xz4Igz4DOtc+BzrnOvM6tzr3Otc65IM+Ezr8gz4DPgc+Oz4TOvyDPg86/z4Ugz4POus6/z4EuIM6gzqzOvM61Ow==
+string|leaderboard_near_empty_host|zqDPgc+Oz4TOvyDPg866zr/PgSDPg8+Ezr/OvSDPgM6vzr3Osc66zrEhIM6gzrHOr86+zrUgzqzOu867zr/OvSDOrc69zrHOvSDOs8+Nz4HOvyDOus6xzrkgzrTOtc+CIM68zq3Ph8+Bzrkgz4DOv8+NIM+Gz4TOrM69zrXOuc+CLg==
 string|leaderboard_no_extra_scores_prompt|zpPOr869zrUgzr8gzrXPgM+MzrzOtc69zr/PgiDPgM6/z4UgzrjOsSDOvM+AzrXOuSDPg8+Ezr/OvSDPgM6vzr3Osc66zrEu
 string|leaderboard_no_extra_scores|zpTOtc69IM+Fz4DOrM+Bz4fOv8+Fzr0gzrXPgM65z4DOu86tzr/OvSDPg866zr/PgSE=
+string|leaderboard_play_cta|zqDOsc6vzr7OtSDOo861z4HOrw==
 string|league_agora|zpHOs86/z4HOrA==
 string|league_akropoli|zpHOus+Bz4zPgM6/zrvOtw==
 string|league_kafeneio|zprOsc+GzrXOvc61zq/Ovw==
