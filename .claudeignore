@@ -1,0 +1,10 @@
+# Generated Kotlin/Wasm bundle: never read (MBs, no source). Keep in sync with .cursorignore.
+*.wasm
+*.js.map
+kserolas/composeApp.js
+kserolas/composeApp.js.LICENSE.txt
+kserolas/composeResources/
+*.mp3
+*.wav
+.firebase/
+.DS_Store
