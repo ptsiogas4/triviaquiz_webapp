@@ -1,4 +1,16 @@
 version:0
+string|avatar_change|zpHOu867zrHOs86u
+string|avatar_colour_cd|zqfPgc+OzrzOsSDOrM6yzrHPhM6xz4EgJTEkZA==
+string|avatar_colour_label|zqfOoc6pzpzOkQ==
+string|avatar_name_label|zp/Onc6fzpzOkQ==
+string|avatar_open_profile_cd|JTEkcywgzqzOvc6/zrnOs868zrEgz4DPgc6/z4bOr867
+string|avatar_playing_as|zqDOsc6vzrbOtc65z4Igz4nPgg==
+string|avatar_profile_title|zpcgz4TOsc+Fz4TPjM+EzrfPhM6sIM+Dzr/PhQ==
+string|avatar_shape_circle|zprPjc66zrvOv8+C
+string|avatar_shape_flower|zpvOv8+FzrvOv8+NzrTOuQ==
+string|avatar_shape_hexagon|zpXOvs6szrPPic69zr8=
+string|avatar_shape_label|zqPOp86XzpzOkQ==
+string|avatar_shape_square|zqTOtc+Ez4HOrM6zz4nOvc6/
 string|v3_again|zp7Osc69zqw=
 string|v3_back|zqDOr8+Dz4k=
 string|v3_categories|zprOsc+EzrfOs86/z4HOr861z4I=
@@ -36,7 +48,7 @@ string|v3_onb_bubble_2|zqDOv8+NIM64zrEgz4PPhM6xzrzOsc+Ezq7Pg861zrk7IM6fz43PhM61I
 string|v3_onb_colour_label|zqfOoc6pzpzOkSDOps6kzpXOoc6pzp0=
 string|v3_onb_cta_1|zpPOuc6xIM69zrEgzrTOv8+NzrzOtQ==
 string|v3_onb_cta_3|zqDOrM68zrUgzrPOuc6xIM+Ezr8gz4DPgc+Oz4TOvyDPgM6xzrnPh869zq/OtM65
-string|v3_onb_default_name|zqPOv8+Gzq4gzprOv8+FzrrOv8+FzrLOrM6zzrnOsQ==
+string|v3_onb_default_name|zpHOvc+Ozr3Phc68zr/PgiDOo86/z4bPjM+C
 string|v3_onb_footnote|zqfPic+Bzq/PgiDOu86/zrPOsc+BzrnOsc+DzrzPjC4gzpcgz4DPgc+Mzr/OtM6/z4IgzrzOrc69zrXOuSDPg8+Ezrcgz4PPhc+DzrrOtc+Fzq4u
 string|v3_onb_landed|zojPgM61z4POtSAlMSRzISDOoM6szrzOtSDPgM6xz4HOsc66zqzPhM+JLg==
 string|v3_onb_name_label|zqTOvyDPjM69zr/OvM6sIM+Dzr/PhQ==
