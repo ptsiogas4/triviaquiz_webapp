@@ -27,6 +27,8 @@
 html, body {
     width: 100%;
     height: 100%;
+    /* #107: the dynamic viewport excludes mobile browser toolbars, so bottom actions stay on screen. */
+    height: 100dvh;
     margin: 0;
     padding: 0;
     overflow: hidden;
