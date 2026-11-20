@@ -1,11 +1,13 @@
 version:0
+plurals|mastery_answer_count|ONE:JTEkZCDOsc+AzqzOvc+EzrfPg863,OTHER:JTEkZCDOsc+AzrHOvc+Ezq7Pg861zrnPgg==
+plurals|mastery_correct_count|ONE:JTEkZCDPg8+Jz4PPhM6u,OTHER:JTEkZCDPg8+Jz4PPhM6tz4I=
 string|mastery_accuracy|zpHOus+Bzq/Oss61zrnOsTogJTEkZCDPg8+EzrEgMTAw
 string|mastery_badge_bronze|zqfOrM67zrrOuc69zr8gz4POrs68zrE=
 string|mastery_badge_earned|zprOrc+BzrTOuc+DzrXPgiDOvc6tzr8gz4POrs68zrEh
 string|mastery_badge_gold|zqfPgc+Fz4PPjCDPg86uzrzOsQ==
 string|mastery_badge_none|zqfPic+Bzq/PgiDPg86uzrzOsSDOsc66z4zOvM63
 string|mastery_badge_silver|zpHPg863zrzOrc69zrnOvyDPg86uzrzOsQ==
-string|mastery_counts|JTEkZCDPg8+Jz4PPhM6tz4Igz4POtSAlMiRkIM6xz4DOsc69z4TOrs+DzrXOuc+C
+string|mastery_counts|JTEkcyDPg861ICUyJHM=
 string|mastery_level_badge|zpXPgM6vz4DOtc60zr8gJTEkZCDCtyAlMiRz
 string|mastery_max|zojPhs+EzrHPg861z4Igz4PPhM63zr0gzrrOv8+Bz4XPhs6uIQ==
 string|mastery_next_one|zobOu867zrcgMSDPg8+Jz4PPhM6uIM6zzrnOsSDPhM6/IM61z4DPjM68zrXOvc6/IM61z4DOr8+AzrXOtM6/
