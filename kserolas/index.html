@@ -1,12 +1,165 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="el" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TriviaQuiz</title>
-    <link type="text/css" rel="stylesheet" href="styles.css">
-    <script type="application/javascript" src="composeApp.js"></script>
+    <!-- All relative URLs (styles, composeApp.js, hashed .wasm, composeResources/) resolve from the site root,
+         so deep links such as /join/ABCD or /daily load the same assets as /. -->
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <title>Ξερόλας: Κουίζ γνώσεων για όλη την παρέα</title>
+    <meta name="description" content="Παίξε Ξερόλα δωρεάν: κουίζ γνώσεων με ιστορία, γεωγραφία, αθλητικά, ταινίες, επιστήμη και μυθολογία. Μόνος, 1 εναντίον 1 ή με την παρέα, στο web, Android και iOS.">
+    <meta name="application-name" content="Ξερόλας">
+    <meta name="apple-mobile-web-app-title" content="Ξερόλας">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+
+    <!-- Canonical. The app is Greek only (no language alternates). -->
+    <link rel="canonical" href="https://trivialquiz-c9f60.web.app/">
+
+    <!-- Theme colours: Ink for dark UI, Owl Teal for light UI -->
+    <meta name="theme-color" content="#14B8C8" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#15123A" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+
+    <!-- Icons and PWA -->
+    <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="icons/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="icons/favicon-16.png" type="image/png" sizes="16x16">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" sizes="180x180">
+    <link rel="manifest" href="manifest.webmanifest">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ξερόλας">
+    <meta property="og:title" content="Ξερόλας: Κουίζ γνώσεων για όλη την παρέα">
+    <meta property="og:description" content="Παίξε δωρεάν στο web, Android και iOS. Ιστορία, γεωγραφία, αθλητικά, ταινίες και άλλα. Μόνος, 1v1 ή με την παρέα.">
+    <meta property="og:url" content="https://trivialquiz-c9f60.web.app/">
+    <meta property="og:locale" content="el_GR">
+    <meta property="og:image" content="https://trivialquiz-c9f60.web.app/og-image.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Η κουκουβάγια του Ξερόλα μέσα στο χρωματιστό δαχτυλίδι των κατηγοριών, με το κουμπί Παίξε δωρεάν">
+
+    <!-- Twitter / X card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ξερόλας: Κουίζ γνώσεων για όλη την παρέα">
+    <meta name="twitter:description" content="Κουίζ γνώσεων δωρεάν: μόνος, 1 εναντίον 1 ή με την παρέα. Web, Android και iOS.">
+    <meta name="twitter:image" content="https://trivialquiz-c9f60.web.app/og-image.png">
+    <meta name="twitter:image:alt" content="Η κουκουβάγια του Ξερόλα μέσα στο χρωματιστό δαχτυλίδι των κατηγοριών">
+
+    <!-- Native apps. TODO(app-store): set the numeric App Store id once the iOS listing URL is known,
+         then uncomment the Smart App Banner below and set APP_STORE_URL in shell.js.
+         iOS bundle id: com.ptsiogas.triviaquiz.TriviaQuiz -->
+    <!-- <meta name="apple-itunes-app" content="app-id=TODO_APP_STORE_ID"> -->
+
+    <!-- Performance hints. Hashed *.wasm names change every build, so they are cached by the service worker
+         instead of being preloaded here (see docs/web/README.md for an optional post-build preload step). -->
+    <link rel="preload" href="composeApp.js" as="script">
+    <link rel="preconnect" href="https://trivia-quiz-be.vercel.app" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" crossorigin="anonymous" href="https://fonts.googleapis.com/css2?family=Commissioner:wght@700;800&family=Inter:wght@400;600&display=swap">
+    <link rel="stylesheet" href="styles.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["WebApplication", "VideoGame"],
+      "name": "Ξερόλας",
+      "alternateName": ["Xerolas", "Kserolas", "TriviaQuiz"],
+      "url": "https://trivialquiz-c9f60.web.app/",
+      "image": "https://trivialquiz-c9f60.web.app/og-image.png",
+      "description": "Κουίζ γνώσεων για όλη την παρέα: ιστορία, γεωγραφία, αθλητικά, ταινίες, επιστήμη και μυθολογία.",
+      "inLanguage": "el",
+      "applicationCategory": "GameApplication",
+      "genre": ["Κουίζ γνώσεων", "Παιχνίδι για παρέα"],
+      "operatingSystem": "Web, Android, iOS",
+      "browserRequirements": "Χρειάζεται browser με υποστήριξη WebAssembly GC (Chrome 119+, Edge 119+, Firefox 120+, Safari 18.2+)",
+      "playMode": ["SinglePlayer", "MultiPlayer"],
+      "isAccessibleForFree": true,
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+      "sameAs": [
+        "https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz"
+      ]
+    }
+    </script>
+
+    <script src="shell.js" defer></script>
 </head>
 <body>
+    <!-- Branded loading screen. shell.js fades it out once the Compose canvas has painted. -->
+    <div id="xl-loader" class="xl-loader" role="status" aria-live="polite">
+        <div class="xl-mark" aria-hidden="true">
+            <svg class="xl-ring" viewBox="0 0 200 200">
+                <g fill="none" stroke-width="14" transform="rotate(-90 100 100)">
+                    <circle cx="100" cy="100" r="80" stroke="#2F7DF6" stroke-dasharray="76.6 426" stroke-dashoffset="-3.6"/>
+                    <circle cx="100" cy="100" r="80" stroke="#14B86A" stroke-dasharray="76.6 426" stroke-dashoffset="-87.4"/>
+                    <circle cx="100" cy="100" r="80" stroke="#F2B705" stroke-dasharray="76.6 426" stroke-dashoffset="-171.1"/>
+                    <circle cx="100" cy="100" r="80" stroke="#FF8A1F" stroke-dasharray="76.6 426" stroke-dashoffset="-254.9"/>
+                    <circle cx="100" cy="100" r="80" stroke="#EF3E4A" stroke-dasharray="76.6 426" stroke-dashoffset="-338.7"/>
+                    <circle cx="100" cy="100" r="80" stroke="#E64FB0" stroke-dasharray="76.6 426" stroke-dashoffset="-422.4"/>
+                </g>
+            </svg>
+            <svg class="xl-owl" viewBox="0 0 120 120">
+                <path d="M22 34 L30 10 L50 25 Q60 22 70 25 L90 10 L98 34 Q107 54 102 76 Q95 102 60 114 Q25 102 18 76 Q13 54 22 34 Z" fill="#14B8C8" stroke="#0A0820" stroke-width="5" stroke-linejoin="round"/>
+                <path d="M38 86 Q60 100 82 86 Q78 103 60 109 Q42 103 38 86 Z" fill="#fff" opacity=".28"/>
+                <g class="xl-eyes">
+                    <circle cx="42" cy="55" r="17" fill="#fff" stroke="#0A0820" stroke-width="4.5"/>
+                    <circle cx="78" cy="55" r="17" fill="#fff" stroke="#0A0820" stroke-width="4.5"/>
+                    <circle cx="44.5" cy="56.5" r="8" fill="#15123A"/>
+                    <circle cx="75.5" cy="56.5" r="8" fill="#15123A"/>
+                    <circle cx="47.5" cy="53.5" r="2.8" fill="#fff"/>
+                    <circle cx="78.5" cy="53.5" r="2.8" fill="#fff"/>
+                </g>
+                <path d="M53 72 H67 L60 82 Z" fill="#FFC53D" stroke="#0A0820" stroke-width="3.5" stroke-linejoin="round"/>
+            </svg>
+        </div>
+        <h1 class="xl-title">Ξερόλας</h1>
+        <p class="xl-sub" id="xl-status">Φορτώνει το παιχνίδι...</p>
+        <div class="xl-bar" aria-hidden="true"><span></span></div>
+    </div>
+
+    <!-- Shown by shell.js when the browser lacks WebAssembly GC, or when loading fails. -->
+    <div id="xl-fallback" class="xl-fallback" hidden>
+        <div class="xl-card">
+            <img src="icons/icon-192.png" width="96" height="96" alt="" class="xl-card-icon">
+            <h1 class="xl-title" id="xl-fallback-title">Ο browser σου δεν υποστηρίζει ακόμα τον Ξερόλα</h1>
+            <p class="xl-sub" id="xl-fallback-text">Ενημέρωσε τον browser σου (Chrome, Edge, Firefox ή Safari 18.2+) ή κατέβασε την εφαρμογή.</p>
+            <div class="xl-actions">
+                <button type="button" class="xl-btn xl-btn-primary" id="xl-retry" hidden>Δοκίμασε ξανά</button>
+                <a class="xl-btn xl-btn-store" id="xl-play" href="https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz" rel="noopener">Google Play</a>
+                <a class="xl-btn xl-btn-store" id="xl-appstore" href="#" rel="noopener" hidden>App Store</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- New version toast (service worker update). -->
+    <div id="xl-update" class="xl-toast" role="status" hidden>
+        <span>Νέα έκδοση διαθέσιμη</span>
+        <button type="button" class="xl-btn xl-btn-primary" id="xl-update-btn">Ανανέωση</button>
+    </div>
+
+    <noscript>
+        <div class="xl-fallback">
+            <div class="xl-card">
+                <img src="icons/icon-192.png" width="96" height="96" alt="" class="xl-card-icon">
+                <h1 class="xl-title">Ξερόλας</h1>
+                <p class="xl-sub">Ο Ξερόλας χρειάζεται JavaScript. Ενεργοποίησέ το ή κατέβασε την εφαρμογή.</p>
+                <div class="xl-actions">
+                    <a class="xl-btn xl-btn-store" href="https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz" rel="noopener">Google Play</a>
+                    <!-- TODO(app-store): add the App Store link here once the listing URL is known. -->
+                </div>
+                <p class="xl-legal">
+                    <a href="/legal/privacy.html">Πολιτική απορρήτου</a>
+                    <a href="/legal/terms.html">Όροι χρήσης</a>
+                </p>
+            </div>
+        </div>
+    </noscript>
 </body>
 </html>

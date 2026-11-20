@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Xerolas app icon concept: owl inside the six-category ring</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A2170"/>
+      <stop offset=".6" stop-color="#15123A"/>
+      <stop offset="1" stop-color="#0D3B4A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".46" r=".5">
+      <stop offset="0" stop-color="#14B8C8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#14B8C8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <circle cx="512" cy="512" r="420" fill="url(#glow)"/>
+  <!-- Six category segments: r=330, circumference 2073.5, segment 345.6, gap 30 -->
+  <g fill="none" stroke-width="76" transform="rotate(-90 512 512)">
+    <circle cx="512" cy="512" r="330" stroke="#2F7DF6" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-15"/>
+    <circle cx="512" cy="512" r="330" stroke="#14B86A" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-360.6"/>
+    <circle cx="512" cy="512" r="330" stroke="#F2B705" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-706.2"/>
+    <circle cx="512" cy="512" r="330" stroke="#FF8A1F" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-1051.8"/>
+    <circle cx="512" cy="512" r="330" stroke="#EF3E4A" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-1397.4"/>
+    <circle cx="512" cy="512" r="330" stroke="#E64FB0" stroke-dasharray="315.6 1757.9" stroke-dashoffset="-1743"/>
+  </g>
+  <!-- Owl (120 unit grid scaled x3.6, centred) -->
+  <g transform="translate(296 296) scale(3.6)">
+    <path d="M22 34 L30 10 L50 25 Q60 22 70 25 L90 10 L98 34 Q107 54 102 76 Q95 102 60 114 Q25 102 18 76 Q13 54 22 34 Z" fill="#14B8C8" stroke="#0A0820" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M38 86 Q60 100 82 86 Q78 103 60 109 Q42 103 38 86 Z" fill="#fff" opacity=".28"/>
+    <path d="M48 92 l4 4 4-4 M64 92 l4 4 4-4" fill="none" stroke="#0A0820" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+    <circle cx="42" cy="55" r="17" fill="#fff" stroke="#0A0820" stroke-width="4.5"/>
+    <circle cx="78" cy="55" r="17" fill="#fff" stroke="#0A0820" stroke-width="4.5"/>
+    <circle cx="44.5" cy="56.5" r="8" fill="#15123A"/>
+    <circle cx="75.5" cy="56.5" r="8" fill="#15123A"/>
+    <circle cx="47.5" cy="53.5" r="2.8" fill="#fff"/>
+    <circle cx="78.5" cy="53.5" r="2.8" fill="#fff"/>
+    <path d="M53 72 H67 L60 82 Z" fill="#FFC53D" stroke="#0A0820" stroke-width="3.5" stroke-linejoin="round"/>
+  </g>
+</svg>
