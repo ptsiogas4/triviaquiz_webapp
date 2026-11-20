@@ -180,3 +180,37 @@ html, body {
 
 .xl-legal { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 16px; margin: 20px 0 0; font-size: 14px; }
 .xl-legal a { color: inherit; text-underline-offset: 3px; }
+
+/* Native window bounds protect the Compose canvas in installed mode. */
+html[data-standalone="true"] body {
+    width: calc(100% - env(safe-area-inset-left) - env(safe-area-inset-right));
+    height: calc(100dvh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+    margin: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+.xl-install-sheet {
+    box-sizing: border-box;
+    width: min(92vw, 460px);
+    max-height: 85dvh;
+    overflow: auto;
+    border: 3px solid var(--xl-ink);
+    border-radius: 24px;
+    padding: 24px;
+    background: var(--xl-surface);
+    color: var(--xl-text);
+    font-family: var(--xl-font-body);
+}
+.xl-install-sheet::backdrop { background: rgba(10, 8, 32, .65); }
+.xl-install-steps { padding-left: 24px; }
+.xl-install-steps li { margin: 20px 0; }
+.xl-install-steps span, .xl-install-steps img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.xl-share-icon, .xl-home-icon {
+    border: 2px solid currentColor;
+    border-radius: 8px;
+    padding: 4px 12px;
+    font-size: 28px;
+    color: var(--xl-teal);
+}

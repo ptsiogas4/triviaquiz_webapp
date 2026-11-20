@@ -52,11 +52,6 @@
     <meta name="twitter:image" content="https://xerolas-trivia.vercel.app/og-image.png">
     <meta name="twitter:image:alt" content="Η κουκουβάγια του Ξερόλα μέσα στο χρωματιστό δαχτυλίδι των κατηγοριών">
 
-    <!-- Native apps. TODO(app-store): set the numeric App Store id once the iOS listing URL is known,
-         then uncomment the Smart App Banner below and set APP_STORE_URL in shell.js.
-         iOS bundle id: com.ptsiogas.triviaquiz.TriviaQuiz -->
-    <!-- <meta name="apple-itunes-app" content="app-id=TODO_APP_STORE_ID"> -->
-
     <!-- Performance hints. Hashed *.wasm names change every build, so they are cached by the service worker
          instead of being preloaded here (see docs/web/README.md for an optional post-build preload step). -->
     <link rel="preload" href="composeApp.js" as="script">
@@ -129,11 +124,11 @@
         <div class="xl-card">
             <img src="icons/icon-192.png" width="96" height="96" alt="" class="xl-card-icon">
             <h1 class="xl-title" id="xl-fallback-title">Ο browser σου δεν υποστηρίζει ακόμα τον Ξερόλα</h1>
-            <p class="xl-sub" id="xl-fallback-text">Ενημέρωσε τον browser σου (Chrome, Edge, Firefox ή Safari 18.2+) ή κατέβασε την εφαρμογή.</p>
+            <p class="xl-sub" id="xl-fallback-text">Ενημέρωσε τον browser σου (Chrome, Edge, Firefox ή Safari 18.2+) ή άνοιξε τον Ξερόλα σε νεότερο πρόγραμμα περιήγησης.</p>
             <div class="xl-actions">
                 <button type="button" class="xl-btn xl-btn-primary" id="xl-retry" hidden>Δοκίμασε ξανά</button>
-                <a class="xl-btn xl-btn-store" id="xl-play" href="https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz" rel="noopener">Google Play</a>
-                <a class="xl-btn xl-btn-store" id="xl-appstore" href="#" rel="noopener" hidden>App Store</a>
+                <a class="xl-btn xl-btn-store" id="xl-play" hidden href="https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz" rel="noopener">Google Play</a>
+                <button type="button" class="xl-btn xl-btn-primary" id="xl-install" hidden>Βάλε τον Ξερόλα στην οθόνη σου</button>
             </div>
         </div>
     </div>
@@ -144,16 +139,32 @@
         <button type="button" class="xl-btn xl-btn-primary" id="xl-update-btn">Ανανέωση</button>
     </div>
 
+    <dialog id="xl-install-sheet" class="xl-install-sheet" aria-labelledby="xl-install-title">
+        <h2 id="xl-install-title">Ο Ξερόλας στην οθόνη σου!</h2>
+        <div id="xl-install-ios">
+            <p>Άνοιξε αυτή τη σελίδα στο Safari.</p>
+            <ol class="xl-install-steps">
+                <li><span class="xl-share-icon" aria-hidden="true">↑</span> Πάτησε «Κοινοποίηση».</li>
+                <li><span class="xl-home-icon" aria-hidden="true">＋</span> Διάλεξε «Προσθήκη στην οθόνη Αφετηρίας».</li>
+                <li><img src="/icons/apple-touch-icon.png" width="48" height="48" alt=""> Πάτησε «Προσθήκη». Έτοιμος!</li>
+            </ol>
+        </div>
+        <div id="xl-install-desktop">
+            <p>Στο Chrome ή στο Edge πάτησε «Εγκατάσταση» όταν εμφανιστεί το κουμπί.</p>
+            <p>Αλλιώς, άνοιξε το μενού του προγράμματος περιήγησης και διάλεξε προσθήκη στην αρχική οθόνη ή εγκατάσταση. Στο Safari σε Mac: Αρχείο, Προσθήκη στο Dock.</p>
+        </div>
+        <div class="xl-actions">
+            <button type="button" id="xl-install-native" class="xl-btn xl-btn-primary" hidden>Εγκατάσταση</button>
+            <button type="button" id="xl-install-close" class="xl-btn">Το ’χω!</button>
+        </div>
+    </dialog>
+
     <noscript>
         <div class="xl-fallback">
             <div class="xl-card">
                 <img src="icons/icon-192.png" width="96" height="96" alt="" class="xl-card-icon">
                 <h1 class="xl-title">Ξερόλας</h1>
-                <p class="xl-sub">Ο Ξερόλας χρειάζεται JavaScript. Ενεργοποίησέ το ή κατέβασε την εφαρμογή.</p>
-                <div class="xl-actions">
-                    <a class="xl-btn xl-btn-store" href="https://play.google.com/store/apps/details?id=com.ptsiogas.triviaquiz" rel="noopener">Google Play</a>
-                    <!-- TODO(app-store): add the App Store link here once the listing URL is known. -->
-                </div>
+                <p class="xl-sub">Ο Ξερόλας χρειάζεται JavaScript. Ενεργοποίησέ το ή άνοιξε τον Ξερόλα σε νεότερο πρόγραμμα περιήγησης.</p>
                 <p class="xl-legal">
                     <a href="/legal/privacy.html">Πολιτική απορρήτου</a>
                     <a href="/legal/terms.html">Όροι χρήσης</a>

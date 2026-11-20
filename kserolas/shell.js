@@ -6,12 +6,10 @@
 (function () {
     'use strict';
 
-    // TODO(app-store): set to the App Store listing URL (https://apps.apple.com/app/idNNNNNNNNN) once known.
-    var APP_STORE_URL = '';
     var APP_SCRIPT = 'composeApp.js';
 
     var doc = document;
-    var $ = function (id) { return doc.getElementById(id); };
+    var $ = function (id) { return doc.getElementById(id) || (sheet && sheet.querySelector('#' + id)); };
 
     // ---------------------------------------------------------------------------------------------
     // 1. Launch context. The URL is left untouched (Firebase rewrites every path to index.html),
@@ -36,11 +34,62 @@
     // Kotlin/Wasm interop is simplest with strings: `js("window.xerolasLaunch()")` returns JSON.
     window.xerolasLaunch = function () { return JSON.stringify(launch); };
 
-    if (APP_STORE_URL) {
-        var appStore = $('xl-appstore');
-        appStore.href = APP_STORE_URL;
-        appStore.hidden = false;
+    // One platform decision shared by the shell and Kotlin/Wasm.
+    var ua = navigator.userAgent || '';
+    var platform = /iPad|iPhone|iPod/i.test(ua) ||
+        (/Macintosh|MacIntel/i.test(ua) && navigator.maxTouchPoints > 1) ? 'ios' :
+        /Android/i.test(ua) ? 'android' : 'desktop';
+    var displayMode = window.matchMedia('(display-mode: standalone)');
+    var installed = false;
+    var deferredInstall = null;
+    var playButton = $('xl-play');
+    var installButton = $('xl-install');
+    var sheet = $('xl-install-sheet');
+    var previousFocus;
+    function standalone() { return installed || displayMode.matches || navigator.standalone === true; }
+    window.xerolasWebPlatform = function () { return platform; };
+    window.xerolasInstallVisible = function () { return !standalone(); };
+    function refreshInstall() {
+        doc.documentElement.setAttribute('data-standalone', String(standalone()));
+        playButton.hidden = standalone() || platform !== 'android';
+        installButton.hidden = standalone();
+        if (standalone() && sheet.open) sheet.close();
+        $('xl-install-native').hidden = !deferredInstall || standalone();
     }
+    window.xerolasInstall = function () {
+        if (standalone()) return;
+        if (deferredInstall) {
+            var prompt = deferredInstall;
+            deferredInstall = null;
+            refreshInstall();
+            return prompt.prompt().then(function () { return prompt.userChoice; }).catch(function () {});
+        }
+        // ComposeViewport clears body; retain the sheet and reattach it on demand.
+        if (!sheet.isConnected) doc.body.appendChild(sheet);
+        previousFocus = doc.activeElement;
+        $('xl-install-ios').hidden = platform !== 'ios';
+        $('xl-install-desktop').hidden = platform === 'ios';
+        sheet.showModal();
+    };
+    installButton.onclick = window.xerolasInstall;
+    $('xl-install-native').onclick = window.xerolasInstall;
+    $('xl-install-close').onclick = function () { sheet.close(); };
+    sheet.addEventListener('close', function () {
+        if (previousFocus && previousFocus.isConnected) previousFocus.focus();
+    });
+    window.addEventListener('beforeinstallprompt', function (event) {
+        event.preventDefault();
+        if (!standalone()) deferredInstall = event;
+        refreshInstall();
+    });
+    window.addEventListener('appinstalled', function () {
+        installed = true;
+        deferredInstall = null;
+        refreshInstall();
+    });
+    if (displayMode.addEventListener) displayMode.addEventListener('change', refreshInstall);
+    window.addEventListener('pageshow', refreshInstall);
+    refreshInstall();
 
     // ---------------------------------------------------------------------------------------------
     // 2. Feature check: Kotlin/Wasm needs WebAssembly GC (and exception handling).
@@ -101,7 +150,7 @@
         if (!fb.isConnected) doc.body.appendChild(fb);
         if (isError) {
             setText('xl-fallback-title', 'Κάτι πήγε στραβά στη φόρτωση');
-            setText('xl-fallback-text', 'Έλεγξε τη σύνδεσή σου και δοκίμασε ξανά, ή κατέβασε την εφαρμογή.');
+            setText('xl-fallback-text', 'Έλεγξε τη σύνδεσή σου και δοκίμασε ξανά.');
             var retry = $('xl-retry');
             retry.hidden = false;
             retry.onclick = function () { location.reload(); };
