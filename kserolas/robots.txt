@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /join/
 
-Sitemap: https://trivialquiz-c9f60.web.app/sitemap.xml
+Sitemap: https://xerolas-trivia.vercel.app/sitemap.xml
