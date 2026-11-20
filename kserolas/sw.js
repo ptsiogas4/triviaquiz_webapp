@@ -14,7 +14,7 @@
  */
 'use strict';
 
-var CACHE_VERSION = 'v2';
+var CACHE_VERSION = 'v3';
 var SHELL_CACHE = 'xerolas-shell-' + CACHE_VERSION;
 var ASSET_CACHE = 'xerolas-assets-' + CACHE_VERSION;
 var RUNTIME_CACHE = 'xerolas-runtime-' + CACHE_VERSION;
@@ -72,7 +72,10 @@ self.addEventListener('fetch', function (event) {
             if (/\/composeResources\/font\//.test(p)) return event.respondWith(cacheFirst(req, RUNTIME_CACHE));
             return event.respondWith(networkFirst(req, RUNTIME_CACHE));
         }
-        if (/\.(png|svg|jpg|jpeg|webp|ico|mp3|wav|ttf|otf|woff2?)$/.test(p)) {
+        // Audio is fetched with Range requests (206 partial responses), which the Cache API rejects:
+        // let the browser handle it directly so sounds always play.
+        if (/\.(mp3|wav|ogg|m4a)$/.test(p) || req.headers.has('range')) return;
+        if (/\.(png|svg|jpg|jpeg|webp|ico|ttf|otf|woff2?)$/.test(p)) {
             return event.respondWith(cacheFirst(req, RUNTIME_CACHE));
         }
         return;
@@ -104,7 +107,7 @@ async function cacheFirst(req, cacheName, afterPut) {
     var hit = await cache.match(req);
     if (hit) return hit;
     var res = await fetch(req);
-    if (res.ok || res.type === 'opaque') {
+    if (res.status === 200 || res.type === 'opaque') {
         await cache.put(req, res.clone());
         if (afterPut) afterPut(cache);
     }
@@ -114,7 +117,7 @@ async function cacheFirst(req, cacheName, afterPut) {
 async function networkFirst(req, cacheName) {
     var cache = await caches.open(cacheName);
     var network = fetch(req).then(function (res) {
-        if (res.ok) cache.put(req, res.clone());
+        if (res.status === 200) cache.put(req, res.clone()).catch(function () {});
         return res;
     });
     network.catch(function () { /* handled below */ });
