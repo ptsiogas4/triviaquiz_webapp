@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./**/*.wasm)",
+      "Read(./**/*.js.map)",
+      "Read(./kserolas/composeApp.js)",
+      "Read(./kserolas/composeResources/**)",
+      "Bash(firebase deploy:*)",
+      "Bash(firebase hosting:*)"
+    ]
+  }
+}
