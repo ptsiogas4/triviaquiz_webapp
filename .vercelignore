@@ -1,0 +1,7 @@
+*.map
+*.LICENSE.txt
+firebase-debug.log
+.firebase
+.claude
+AGENTS.md
+CLAUDE.md
