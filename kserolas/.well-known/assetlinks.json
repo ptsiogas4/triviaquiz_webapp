@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.ptsiogas.triviaquiz",
       "sha256_cert_fingerprints": [
+        "22:19:EB:4F:98:EB:A0:76:24:38:48:2E:6C:32:A0:E9:B5:23:60:58:0F:C6:C9:FD:E4:B9:0C:49:DC:3D:9A:F7",
         "76:14:83:05:FB:AA:DC:59:61:D0:55:2F:3C:51:4E:9B:6F:8A:4C:0E:79:18:FD:12:2A:FD:2A:1C:2A:24:A0:AB"
       ]
     }

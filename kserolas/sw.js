@@ -14,7 +14,7 @@
  */
 'use strict';
 
-var CACHE_VERSION = 'v3';
+var CACHE_VERSION = 'v4';
 var SHELL_CACHE = 'xerolas-shell-' + CACHE_VERSION;
 var ASSET_CACHE = 'xerolas-assets-' + CACHE_VERSION;
 var RUNTIME_CACHE = 'xerolas-runtime-' + CACHE_VERSION;
@@ -28,6 +28,7 @@ var PRECACHE = [
     '/offline.html',
     '/styles.css',
     '/shell.js',
+    '/web-ads.js',
     '/manifest.webmanifest',
     '/icons/favicon.svg',
     '/icons/icon-192.png',

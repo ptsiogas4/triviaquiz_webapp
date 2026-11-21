@@ -7,6 +7,7 @@
     'use strict';
 
     var APP_SCRIPT = 'composeApp.js';
+    var scriptNonce = document.currentScript && document.currentScript.nonce;
 
     var doc = document;
     var $ = function (id) { return doc.getElementById(id) || (sheet && sheet.querySelector('#' + id)); };
@@ -19,7 +20,11 @@
     var path = location.pathname.replace(/\/+$/, '') || '/';
     var launch = { path: path, query: location.search, hash: location.hash, route: 'home', params: {} };
     var join = path.match(/^\/join\/([A-Za-z0-9]{4,12})$/);
-    if (join) {
+    var referral = path.match(/^\/i\/([A-Za-z0-9_-]{21}[AQgw])$/);
+    if (referral) {
+        launch.route = 'referral';
+        launch.params.code = referral[1];
+    } else if (join) {
         launch.route = 'join';
         launch.params.code = join[1].toUpperCase();
     } else if (path === '/daily' || path === '/blitz' || path === '/quick') {
@@ -208,6 +213,7 @@
             setText('xl-status', 'Αργή σύνδεση, σχεδόν έτοιμο...');
         }, 8000);
         var s = doc.createElement('script');
+        if (scriptNonce) s.nonce = scriptNonce;
         s.src = APP_SCRIPT;
         s.async = true;
         s.onerror = function () { showFallback(true); };
