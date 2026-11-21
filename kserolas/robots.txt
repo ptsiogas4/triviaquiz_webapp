@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /join/
 
-Sitemap: https://xerolas-trivia.vercel.app/sitemap.xml
+Sitemap: https://xerolasgame.gr/sitemap.xml
