@@ -1,0 +1,57 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=(), fullscreen=(self)
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval' https://pagead2.googlesyndication.com https://tpc.googlesyndication.com https://www.googletagservices.com https://adservice.google.com https://www.google.com https://fundingchoicesmessages.google.com https://ep2.adtrafficquality.google; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https:; media-src 'self' data: blob:; connect-src 'self' https://trivia-quiz-be.vercel.app https://*.supabase.co wss://*.supabase.co https://fonts.googleapis.com https://fonts.gstatic.com https://pagead2.googlesyndication.com https://*.googlesyndication.com https://*.doubleclick.net https://*.google.com https://*.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://*.googlesyndication.com https://www.google.com https://fundingchoicesmessages.google.com https://*.adtrafficquality.google; worker-src 'self' blob:; manifest-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests
+
+/
+  Cache-Control: no-cache
+
+/index.html
+  Cache-Control: no-cache
+
+/sw.js
+  Cache-Control: no-cache
+
+/*.js
+  Cache-Control: no-cache
+
+/*.css
+  Cache-Control: no-cache
+
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+/sitemap.xml
+  Cache-Control: no-cache
+
+/composeResources/*
+  Cache-Control: no-cache
+
+/sw.js
+  Service-Worker-Allowed: /
+
+/icons/*
+  Cache-Control: public, max-age=604800
+
+/og-image.png
+  Cache-Control: public, max-age=604800
+
+/*.mp3
+  Cache-Control: public, max-age=604800
+
+/*.wav
+  Cache-Control: public, max-age=604800
+
+/*.wasm
+  Cache-Control: public, max-age=31536000, immutable
+
+/app-ads.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/ads.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
