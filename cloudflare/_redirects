@@ -1,0 +1,2 @@
+# SPA fallback: every app route (e.g. /auth/callback, /join/CODE, /daily) serves index.html
+/*  /index.html  200
