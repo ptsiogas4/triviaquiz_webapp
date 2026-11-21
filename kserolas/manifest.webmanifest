@@ -5,7 +5,7 @@
   "description": "Κουίζ γνώσεων για όλη την παρέα: μόνος, 1 εναντίον 1 ή με φίλους.",
   "lang": "el",
   "dir": "ltr",
-  "start_url": "/?source=pwa",
+  "start_url": "/play?source=pwa",
   "scope": "/",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],

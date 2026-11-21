@@ -56,3 +56,25 @@
   Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=3600
 
+
+/seo-home.html
+  Cache-Control: no-cache
+
+/pos-paizetai/*
+  Cache-Control: no-cache
+
+/syxnes-erotiseis/*
+  Cache-Control: no-cache
+
+/erotiseis/*
+  Cache-Control: no-cache
+
+/play
+  Cache-Control: no-cache
+
+/seo-assets/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+/robots.txt
+  Cache-Control: no-cache

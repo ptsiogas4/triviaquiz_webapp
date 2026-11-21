@@ -14,7 +14,7 @@
  */
 'use strict';
 
-var CACHE_VERSION = 'v4';
+var CACHE_VERSION = 'v5-seo';
 var SHELL_CACHE = 'xerolas-shell-' + CACHE_VERSION;
 var ASSET_CACHE = 'xerolas-assets-' + CACHE_VERSION;
 var RUNTIME_CACHE = 'xerolas-runtime-' + CACHE_VERSION;
@@ -90,16 +90,21 @@ self.addEventListener('fetch', function (event) {
 
 async function handleNavigation(event) {
     var cache = await caches.open(SHELL_CACHE);
+    var path = new URL(event.request.url).pathname;
+    // The static SEO pages (landing at "/", categories, how-to-play, FAQ) each get their own offline
+    // entry; every game route (/play, /daily, /join/..., /auth/callback, ...) shares the game shell.
+    var seo = path === '/' || path === '/seo-home.html' ||
+        /^\/(erotiseis\/[^/]+|pos-paizetai|syxnes-erotiseis)\/(index\.html)?$/.test(path);
+    var key = seo ? path : '/index.html';
     try {
         var res = (await event.preloadResponse) || (await withTimeout(fetch(event.request), NETWORK_TIMEOUT_MS * 2));
         var type = res.headers.get('content-type') || '';
-        // Every app route is rewritten to index.html, so keep the latest copy under one key.
-        if (res.ok && type.indexOf('text/html') !== -1 && !/\/offline\.html$/.test(new URL(event.request.url).pathname)) {
-            cache.put('/index.html', res.clone());
+        if (res.ok && type.indexOf('text/html') !== -1 && !/^\/legal\//.test(path) && path !== '/offline.html') {
+            cache.put(key, res.clone());
         }
         return res;
     } catch (e) {
-        return (await cache.match('/index.html')) || (await cache.match('/offline.html')) || Response.error();
+        return (await cache.match(key)) || (await cache.match('/offline.html')) || Response.error();
     }
 }
 

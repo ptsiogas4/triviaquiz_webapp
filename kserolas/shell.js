@@ -30,7 +30,7 @@
     } else if (path === '/daily' || path === '/blitz' || path === '/quick') {
         // Mode deep links, mapped to app routes by ModeDeepLinks on the Kotlin side.
         launch.route = path.slice(1);
-    } else if (path !== '/' && path !== '/index.html') {
+    } else if (path !== '/' && path !== '/play' && path !== '/play/' && path !== '/index.html') {
         launch.route = 'unknown';
     }
     params.forEach(function (v, k) { if (!(k in launch.params)) launch.params[k] = v; });
