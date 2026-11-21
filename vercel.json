@@ -6,12 +6,6 @@
   "outputDirectory": "kserolas",
   "cleanUrls": false,
   "trailingSlash": false,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -117,6 +111,13 @@
           "value": "public, max-age=3600"
         }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://xerolasgame.gr/$1",
+      "permanent": true
     }
   ]
 }
