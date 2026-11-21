@@ -194,6 +194,7 @@ string|geography|zpPOtc+JzrPPgc6xz4bOr86x
 string|history|zpnPg8+Ezr/Pgc6vzrE=
 string|leaderboard_empty_cta|zqDOrM68zrUgzr3OsSDPgM6xzq/Ovs6/z4XOvM61
 string|leaderboard_empty_host|zp8gz4DOr869zrHOus6xz4Igz4DOtc+BzrnOvM6tzr3Otc65IM+Ezr8gz4DPgc+Oz4TOvyDPg86/z4Ugz4POus6/z4EuIM6gzqzOvM61Ow==
+string|leaderboard_empty_title|zqTOvyDPgM+Bz47PhM6/IM+DzrrOv8+BIM61zq/Ovc6xzrkgzrTOuc66z4wgz4POv8+FIQ==
 string|leaderboard_near_empty_host|zqDPgc+Oz4TOvyDPg866zr/PgSDPg8+Ezr/OvSDPgM6vzr3Osc66zrEhIM6gzrHOr86+zrUgzqzOu867zr/OvSDOrc69zrHOvSDOs8+Nz4HOvyDOus6xzrkgzrTOtc+CIM68zq3Ph8+Bzrkgz4DOv8+NIM+Gz4TOrM69zrXOuc+CLg==
 string|leaderboard_no_extra_scores_prompt|zpPOr869zrUgzr8gzrXPgM+MzrzOtc69zr/PgiDPgM6/z4UgzrjOsSDOvM+AzrXOuSDPg8+Ezr/OvSDPgM6vzr3Osc66zrEu
 string|leaderboard_no_extra_scores|zpTOtc69IM+Fz4DOrM+Bz4fOv8+Fzr0gzrXPgM65z4DOu86tzr/OvSDPg866zr/PgSE=
@@ -371,7 +372,7 @@ string|mp_results_host_lose|zqTOt869IM61z4DPjM68zrXOvc63IM61zq/Ovc6xzrkgzrTOuc66
 string|mp_results_host_win|zqDOv865zr/PgiDOtc6vzr3Osc65IM6/IM6ezrXPgc+MzrvOsc+CIM+Ez47Pgc6xOyDOlc+Dz40h
 string|mp_results_room|zpTOqc6czpHOpM6Zzp8gJTEkcw==
 string|mp_results_tie|zpnPg86/z4DOsc67zq/OsSDPg8+EzrfOvSDOus6/z4HPhc+Gzq4h
-string|mp_results_winner|zp8vzpcgJTEkcyDPhM6/IM+Azq7Pgc61IQ==
+string|mp_results_winner|zpcgzr3Or866zrcgz4DOrM61zrkgz4POtSAlMSRzIQ==
 string|mp_results_you_won|zqTOvyDPgM6uz4HOtc+CIQ==
 string|mp_reveal_correct|zqPPic+Dz4TPjCEgKyUxJGQ=
 string|mp_reveal_none|zpTOtc69IM+Az4HPjM67zrHOss61z4I=
